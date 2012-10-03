@@ -1,0 +1,5282 @@
+[
+    [
+        {
+            "bairro": "Santa Ines", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.20695979097366923, 
+            "populacao": 0.26666666666666666
+        }
+    ], 
+    [
+        {
+            "bairro": "Horto Florestal", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12155980200139282, 
+            "populacao": 0.17360081407181277
+        }
+    ], 
+    [
+        {
+            "bairro": "Camponesa 1a secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11285716734848578, 
+            "populacao": 0.0035470271841837476
+        }
+    ], 
+    [
+        {
+            "bairro": "Sagrada Familia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2192385588525978, 
+            "populacao": 1.0
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Vista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.132274301187519, 
+            "populacao": 0.24448320976886176
+        }
+    ], 
+    [
+        {
+            "bairro": "Boa Vista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11544868239553664, 
+            "populacao": 0.5109463584823376
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Boa Vista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06741506915263064, 
+            "populacao": 0.027852885593836314
+        }
+    ], 
+    [
+        {
+            "bairro": "Casa Branca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09852483346052283, 
+            "populacao": 0.18464893153074574
+        }
+    ], 
+    [
+        {
+            "bairro": "Colegio Batista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2402435922207287, 
+            "populacao": 0.2955952900130833
+        }
+    ], 
+    [
+        {
+            "bairro": "Floresta", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.24050955496648357, 
+            "populacao": 0.3442651548190144
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Tereza", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.23910699532989804, 
+            "populacao": 0.4537578136357029
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Vicente", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.054931964042207446, 
+            "populacao": 0.014682366623055677
+        }
+    ], 
+    [
+        {
+            "bairro": "Buraco Quente", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06737661112493437, 
+            "populacao": 0.029161215292920484
+        }
+    ], 
+    [
+        {
+            "bairro": "Horto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.18164004490785596, 
+            "populacao": 0.0996947230702137
+        }
+    ], 
+    [
+        {
+            "bairro": "Joao Alfredo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.078189340454092, 
+            "populacao": 0.011367931385375781
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Geraldo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10950066189509111, 
+            "populacao": 0.406279982555604
+        }
+    ], 
+    [
+        {
+            "bairro": "Camponesa 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07177611682344104, 
+            "populacao": 0.006861462421863643
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Geraldo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05848446643193369, 
+            "populacao": 0.00529146678296264
+        }
+    ], 
+    [
+        {
+            "bairro": "Grota", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07871385234990132, 
+            "populacao": 0.0056694286960314
+        }
+    ], 
+    [
+        {
+            "bairro": "Mariano de Abreu", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06488795971822776, 
+            "populacao": 0.10295101032126762
+        }
+    ], 
+    [
+        {
+            "bairro": "Esplanada", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1888252091908199, 
+            "populacao": 0.23895915103939527
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nossa Senhora do Rosario", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0855621613782245, 
+            "populacao": 0.019566797499636576
+        }
+    ], 
+    [
+        {
+            "bairro": "Pompeia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.146274413318154, 
+            "populacao": 0.16531472597761301
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Rafael", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06079750829048507, 
+            "populacao": 0.003459805204244803
+        }
+    ], 
+    [
+        {
+            "bairro": "Vera Cruz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12508125995912328, 
+            "populacao": 0.1122837621747347
+        }
+    ], 
+    [
+        {
+            "bairro": "Saudade", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12209404424155905, 
+            "populacao": 0.14225904928041866
+        }
+    ], 
+    [
+        {
+            "bairro": "Alto Vera Cruz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07665889629167309, 
+            "populacao": 0.6238988225032708
+        }
+    ], 
+    [
+        {
+            "bairro": "Caetano Furquim", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.053028986695839164, 
+            "populacao": 0.010757377525803169
+        }
+    ], 
+    [
+        {
+            "bairro": "Taquaril", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07162043131373086, 
+            "populacao": 0.09853176333769444
+        }
+    ], 
+    [
+        {
+            "bairro": "Granja de Freitas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05396402645356286, 
+            "populacao": 0.1047245239133595
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila da Aria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05107782097741772, 
+            "populacao": 0.009797935746474778
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Taquaril", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05351411386448966, 
+            "populacao": 0.4354411978485245
+        }
+    ], 
+    [
+        {
+            "bairro": "Jonas Veiga", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12098988183191801, 
+            "populacao": 0.007501090274749237
+        }
+    ], 
+    [
+        {
+            "bairro": "Pirineus", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.18334795201735524, 
+            "populacao": 0.018491059747056258
+        }
+    ], 
+    [
+        {
+            "bairro": "Cidade Jardim Taquaril", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.33888935996111563, 
+            "populacao": 0.005029800843145806
+        }
+    ], 
+    [
+        {
+            "bairro": "Baleia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05756147376722329, 
+            "populacao": 0.0004942578863206861
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Efigenia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.24322988123883038, 
+            "populacao": 0.5132432039540631
+        }
+    ], 
+    [
+        {
+            "bairro": "Paraiso", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.15082404432959548, 
+            "populacao": 0.38999854630033437
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Uniao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06867399037251927, 
+            "populacao": 0.02209623491786597
+        }
+    ], 
+    [
+        {
+            "bairro": "Conego Pinheiro 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08137579655610679, 
+            "populacao": 0.012967001017589765
+        }
+    ], 
+    [
+        {
+            "bairro": "Conego Pinheiro 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06694569587484367, 
+            "populacao": 0.001250181712458206
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Paraiso", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06923742364575615, 
+            "populacao": 0.012036633231574357
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo Sao Lucas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2529208408685583, 
+            "populacao": 0.11414449774676552
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Novo Sao Lucas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06060799825039141, 
+            "populacao": 0.10690507341183311
+        }
+    ], 
+    [
+        {
+            "bairro": "Fazendinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.052075876298595544, 
+            "populacao": 0.10800988515772642
+        }
+    ], 
+    [
+        {
+            "bairro": "Nossa Senhora do Rosario", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07262126673329636, 
+            "populacao": 0.005029800843145806
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Santo Antonio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.056352130968581646, 
+            "populacao": 0.009739787759848816
+        }
+    ], 
+    [
+        {
+            "bairro": "Lagoinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14190919549976205, 
+            "populacao": 0.1126035761011775
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Cristovao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11563309558858621, 
+            "populacao": 0.08666957406599797
+        }
+    ], 
+    [
+        {
+            "bairro": "Cachoeirinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14106404558990676, 
+            "populacao": 0.26774240441924696
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Cachoeirinha 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07622937109077624, 
+            "populacao": 0.020293647332461112
+        }
+    ], 
+    [
+        {
+            "bairro": "Canada", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14087221880115672, 
+            "populacao": 0.014304404709986916
+        }
+    ], 
+    [
+        {
+            "bairro": "Concordia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12952339383290773, 
+            "populacao": 0.3108882104957116
+        }
+    ], 
+    [
+        {
+            "bairro": "Tiradentes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05549308056678793, 
+            "populacao": 0.04829190289286234
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila do Pombal", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07103151380527356, 
+            "populacao": 0.004128507050443379
+        }
+    ], 
+    [
+        {
+            "bairro": "Graca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2398803260314049, 
+            "populacao": 0.13932257595580752
+        }
+    ], 
+    [
+        {
+            "bairro": "Silveira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.3462278930051334, 
+            "populacao": 0.0016862916121529292
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Floresta", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.22866309238683954, 
+            "populacao": 0.130716673935165
+        }
+    ], 
+    [
+        {
+            "bairro": "Renascenca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.18133933093225502, 
+            "populacao": 0.25823520860590204
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Cruz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1324063558609339, 
+            "populacao": 0.6485244948393661
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila da Paz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0778622155438081, 
+            "populacao": 0.015525512429132141
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Inestan", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05113110619651496, 
+            "populacao": 0.020380869312400057
+        }
+    ], 
+    [
+        {
+            "bairro": "Ipiranga", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.20946187952258297, 
+            "populacao": 0.3545282744584969
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Ipiranga", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06299749281460404, 
+            "populacao": 0.005436836749527547
+        }
+    ], 
+    [
+        {
+            "bairro": "Palmares", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2955466993976916, 
+            "populacao": 0.16051751708097106
+        }
+    ], 
+    [
+        {
+            "bairro": "Maria Virginia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12828995684823952, 
+            "populacao": 0.11155691234191016
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Sebastiao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05538233998101193, 
+            "populacao": 0.010350341619421428
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Paulo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11574800632194374, 
+            "populacao": 0.010902747492368076
+        }
+    ], 
+    [
+        {
+            "bairro": "Andiroba", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06302390374928701, 
+            "populacao": 0.022997528710568396
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Paulo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08069513580085598, 
+            "populacao": 0.05518243930803896
+        }
+    ], 
+    [
+        {
+            "bairro": "Cidade Nova", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.34060607071550925, 
+            "populacao": 0.4470998691670301
+        }
+    ], 
+    [
+        {
+            "bairro": "Uniao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.194304783112941, 
+            "populacao": 0.4282308475069051
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila de Sa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0610625443367774, 
+            "populacao": 0.028230847506905073
+        }
+    ], 
+    [
+        {
+            "bairro": "Dom Joaquim", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13405634425402313, 
+            "populacao": 0.09533362407326647
+        }
+    ], 
+    [
+        {
+            "bairro": "Penha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11120115540888992, 
+            "populacao": 0.0647187091146969
+        }
+    ], 
+    [
+        {
+            "bairro": "Fernao Dias", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.227951387199593, 
+            "populacao": 0.012182003198139264
+        }
+    ], 
+    [
+        {
+            "bairro": "Centro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1941551211497375, 
+            "populacao": 0.47230702136938507
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Suzana Primeira Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09007750450955125, 
+            "populacao": 0.018781799680186072
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Suzana Segunda Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05435741037541986, 
+            "populacao": 0.0017444395987788923
+        }
+    ], 
+    [
+        {
+            "bairro": "Funcionarios", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.5074935235291309, 
+            "populacao": 0.25695595290013085
+        }
+    ], 
+    [
+        {
+            "bairro": "Savassi", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.4928081171459325, 
+            "populacao": 0.34225904928041867
+        }
+    ], 
+    [
+        {
+            "bairro": "Boa Viagem", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.35994165500183717, 
+            "populacao": 0.13269370548044773
+        }
+    ], 
+    [
+        {
+            "bairro": "Lourdes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.5609330380868846, 
+            "populacao": 0.549643843581916
+        }
+    ], 
+    [
+        {
+            "bairro": "Santo Agostinho", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.4809347802818742, 
+            "populacao": 0.28728012792557056
+        }
+    ], 
+    [
+        {
+            "bairro": "Barro Preto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.21048912587683147, 
+            "populacao": 0.17976450065416485
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Lucas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2900657354263767, 
+            "populacao": 0.08684401802587585
+        }
+    ], 
+    [
+        {
+            "bairro": "Nossa Senhora da Aparecida", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06983514479910777, 
+            "populacao": 0.12621020497165286
+        }
+    ], 
+    [
+        {
+            "bairro": "Nossa Senhora da Conceicao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06682337154578567, 
+            "populacao": 0.18098560837331007
+        }
+    ], 
+    [
+        {
+            "bairro": "Santana do Cafezal", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.061732548048208755, 
+            "populacao": 0.11856374473033872
+        }
+    ], 
+    [
+        {
+            "bairro": "Nossa Senhora de Fatima", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05483327054944474, 
+            "populacao": 0.028027329553714203
+        }
+    ], 
+    [
+        {
+            "bairro": "Marcola", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06924298384253152, 
+            "populacao": 0.19060910015990695
+        }
+    ], 
+    [
+        {
+            "bairro": "Serra", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.42735626080473654, 
+            "populacao": 0.5895333624073267
+        }
+    ], 
+    [
+        {
+            "bairro": "Mangabeiras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.9438179183827983, 
+            "populacao": 0.05660706498037506
+        }
+    ], 
+    [
+        {
+            "bairro": "Comiteco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.7319243794704561, 
+            "populacao": 0.050530600377961914
+        }
+    ], 
+    [
+        {
+            "bairro": "Belvedere", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 1.0, 
+            "populacao": 0.256665212967001
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Lucia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.5188557856395871, 
+            "populacao": 0.21005960168629162
+        }
+    ], 
+    [
+        {
+            "bairro": "Acaba Mundo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.050679340208516645, 
+            "populacao": 0.03410379415612735
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Bento", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.6933528310900255, 
+            "populacao": 0.10722488733827591
+        }
+    ], 
+    [
+        {
+            "bairro": "Apia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08784369545504882, 
+            "populacao": 0.011774967291757523
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Santa Maria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09093470151241985, 
+            "populacao": 0.03276639046373019
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Bandeirantes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06366517977737898, 
+            "populacao": 0.016339584241895626
+        }
+    ], 
+    [
+        {
+            "bairro": "Luxemburgo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.5470052085143293, 
+            "populacao": 0.18642244512283762
+        }
+    ], 
+    [
+        {
+            "bairro": "Coracao de Jesus", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.3785836047404384, 
+            "populacao": 0.16897804913504869
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Paris", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.42799104993659054, 
+            "populacao": 0.010350341619421428
+        }
+    ], 
+    [
+        {
+            "bairro": "Monte Sao Jose", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07077064790656273, 
+            "populacao": 0.03230120657072249
+        }
+    ], 
+    [
+        {
+            "bairro": "Cidade Jardim", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.4084585420144685, 
+            "populacao": 0.04442506178223579
+        }
+    ], 
+    [
+        {
+            "bairro": "Santo Antonio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.40850441363786527, 
+            "populacao": 0.6292193632795464
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Barragem Santa Lucia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08718805558528717, 
+            "populacao": 0.2325628725105393
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Rita de Cassia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07872080259587053, 
+            "populacao": 0.17682802732955372
+        }
+    ], 
+    [
+        {
+            "bairro": "Estrela", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07208053759689222, 
+            "populacao": 0.04625672336095363
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Pedro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.40997462233521775, 
+            "populacao": 0.18398022968454716
+        }
+    ], 
+    [
+        {
+            "bairro": "Carmo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.42602783712515585, 
+            "populacao": 0.11094635848233755
+        }
+    ], 
+    [
+        {
+            "bairro": "Cruzeiro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.42267920861719294, 
+            "populacao": 0.23677860154092165
+        }
+    ], 
+    [
+        {
+            "bairro": "Anchieta", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.4491842032956213, 
+            "populacao": 0.03704026748073848
+        }
+    ], 
+    [
+        {
+            "bairro": "Sion", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.49090791989795185, 
+            "populacao": 0.005727576682657363
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Isabel", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11576237016361342, 
+            "populacao": 0.004041285070504433
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Fumec", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09861333325919737, 
+            "populacao": 0.002093327518534671
+        }
+    ], 
+    [
+        {
+            "bairro": "Pindura Saia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10436257672492362, 
+            "populacao": 0.004448320976886176
+        }
+    ], 
+    [
+        {
+            "bairro": "Mala e Cuia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.16378625306216252, 
+            "populacao": 0.0017444395987788923
+        }
+    ], 
+    [
+        {
+            "bairro": "Prado", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.28931279211304617, 
+            "populacao": 0.004012211077191452
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Calafate", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05487497202525997, 
+            "populacao": 0.015380142462567234
+        }
+    ], 
+    [
+        {
+            "bairro": "Calafate", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.24205760641869115, 
+            "populacao": 0.217328100014537
+        }
+    ], 
+    [
+        {
+            "bairro": "Barroca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2979774320879882, 
+            "populacao": 0.09626399185928187
+        }
+    ], 
+    [
+        {
+            "bairro": "Alto Barroca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2595472053755982, 
+            "populacao": 0.15156272714057276
+        }
+    ], 
+    [
+        {
+            "bairro": "Grajau", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.3420290177402711, 
+            "populacao": 0.18255560401221108
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Granada", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.20903096427249226, 
+            "populacao": 0.17383340601831662
+        }
+    ], 
+    [
+        {
+            "bairro": "Barao Homem de Melo 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0549801524142606, 
+            "populacao": 0.006018316615787178
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim America", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.18548770107640775, 
+            "populacao": 0.32496002325919465
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Suica", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.21572173439218012, 
+            "populacao": 0.44244803023695306
+        }
+    ], 
+    [
+        {
+            "bairro": "Salgado Filho", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.16749907445891177, 
+            "populacao": 0.426777147841256
+        }
+    ], 
+    [
+        {
+            "bairro": "Gutierrez", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.4392231107725568, 
+            "populacao": 0.5089984009303677
+        }
+    ], 
+    [
+        {
+            "bairro": "Guarata", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09932133164859372, 
+            "populacao": 0.02227067887774386
+        }
+    ], 
+    [
+        {
+            "bairro": "Cinquentenario", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14317831041373888, 
+            "populacao": 0.01587440034888792
+        }
+    ], 
+    [
+        {
+            "bairro": "Marajo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11030550037832505, 
+            "populacao": 0.08387847070795174
+        }
+    ], 
+    [
+        {
+            "bairro": "Estrela do Oriente", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12435102078262548, 
+            "populacao": 0.1384212821631051
+        }
+    ], 
+    [
+        {
+            "bairro": "Betania", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1384326824659658, 
+            "populacao": 0.35045791539467946
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Vista Alegre", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06622889384055301, 
+            "populacao": 0.3318214856810583
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Cintra", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09027303809615154, 
+            "populacao": 0.16467509812472744
+        }
+    ], 
+    [
+        {
+            "bairro": "Embaubas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05685069527943927, 
+            "populacao": 0.0525948539031836
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Gameleira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14517766450421346, 
+            "populacao": 0.27556330862043904
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Gameleira 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06415308704441716, 
+            "populacao": 0.02381160052333188
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Gameleira 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09285157935072655, 
+            "populacao": 0.04067451664486117
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardinopolis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12673078500248122, 
+            "populacao": 0.0502398604448321
+        }
+    ], 
+    [
+        {
+            "bairro": "Cabana do Pai Tomas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06504410857766922, 
+            "populacao": 0.5231574356737898
+        }
+    ], 
+    [
+        {
+            "bairro": "Vista Alegre", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08489030426786803, 
+            "populacao": 0.015002180549498473
+        }
+    ], 
+    [
+        {
+            "bairro": "Bairro das Industrias II", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09315600012417773, 
+            "populacao": 0.030033435092309928
+        }
+    ], 
+    [
+        {
+            "bairro": "Custodinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05185856527462507, 
+            "populacao": 0.00927460386684111
+        }
+    ], 
+    [
+        {
+            "bairro": "Madre Gertrudes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10676087493403058, 
+            "populacao": 0.13010612007559239
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Madre Gertrudes 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06313696108371941, 
+            "populacao": 0.005611280709405437
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Madre Gertrudes 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.051492982336644885, 
+            "populacao": 0.019363279546445705
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Madre Gertrudes 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06030496752613408, 
+            "populacao": 0.012240151184765227
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Madre Gertrudes 4a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05456128425718319, 
+            "populacao": 0.0058438726559092895
+        }
+    ], 
+    [
+        {
+            "bairro": "Camargos", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13920693986693522, 
+            "populacao": 0.3805204244803024
+        }
+    ], 
+    [
+        {
+            "bairro": "Virginia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.060082096305388244, 
+            "populacao": 0.025032708242477105
+        }
+    ], 
+    [
+        {
+            "bairro": "Sport Club", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06512565813037456, 
+            "populacao": 0.031138246838203227
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila da Amizade", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05448853834937218, 
+            "populacao": 0.011687745311818579
+        }
+    ], 
+    [
+        {
+            "bairro": "Ambrosina", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05753181938442135, 
+            "populacao": 0.02325919465038523
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Gameleira 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1122163546701251, 
+            "populacao": 0.0027620293647332463
+        }
+    ], 
+    [
+        {
+            "bairro": "Gameleira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.15187445817040798, 
+            "populacao": 0.009536269806657945
+        }
+    ], 
+    [
+        {
+            "bairro": "Barao Homem de Melo 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0589056513376675, 
+            "populacao": 0.05521151330135194
+        }
+    ], 
+    [
+        {
+            "bairro": "Barao Homem de Melo 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06132433693495079, 
+            "populacao": 0.005494984736153511
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Paraiso", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05363180469623487, 
+            "populacao": 0.020468091292339004
+        }
+    ], 
+    [
+        {
+            "bairro": "Ventosa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06646890900135621, 
+            "populacao": 0.20511702282308475
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Santa Rosa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04906363969554216, 
+            "populacao": 0.04044192469835732
+        }
+    ], 
+    [
+        {
+            "bairro": "Parque Sao Jose", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10605194984517168, 
+            "populacao": 0.09257159470853321
+        }
+    ], 
+    [
+        {
+            "bairro": "Havai", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14725486134954316, 
+            "populacao": 0.44340747201628145
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Havai", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05856091913759494, 
+            "populacao": 0.010088675679604593
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Jorge 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07200871838854377, 
+            "populacao": 0.05009449047826719
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Jorge 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06250680544917818, 
+            "populacao": 0.007879052187817997
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Jorge 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06131738668898158, 
+            "populacao": 0.08288995493531036
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Antena", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055326274663527006, 
+            "populacao": 0.0004651838930077046
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Sofia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07124280128273738, 
+            "populacao": 0.08088384939671464
+        }
+    ], 
+    [
+        {
+            "bairro": "Leonina", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06417301108286222, 
+            "populacao": 0.010670155545864224
+        }
+    ], 
+    [
+        {
+            "bairro": "Chacara Leonina", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05262633577935656, 
+            "populacao": 0.012618113097833988
+        }
+    ], 
+    [
+        {
+            "bairro": "Alpes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07592495031732506, 
+            "populacao": 0.06387556330862044
+        }
+    ], 
+    [
+        {
+            "bairro": "Pantanal", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.054060866547400444, 
+            "populacao": 0.026718999854630034
+        }
+    ], 
+    [
+        {
+            "bairro": "Estoril", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.26578667285701907, 
+            "populacao": 0.1319668556476232
+        }
+    ], 
+    [
+        {
+            "bairro": "Palmeiras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1066024093259327, 
+            "populacao": 0.2225032708242477
+        }
+    ], 
+    [
+        {
+            "bairro": "Buritis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.3696252010358646, 
+            "populacao": 0.8540194795755197
+        }
+    ], 
+    [
+        {
+            "bairro": "Olhos D'Agua", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08272182752547612, 
+            "populacao": 0.04552987352812909
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Betania", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07892467647763386, 
+            "populacao": 0.0056694286960314
+        }
+    ], 
+    [
+        {
+            "bairro": "Pilar", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08705878101025995, 
+            "populacao": 0.08565198430004362
+        }
+    ], 
+    [
+        {
+            "bairro": "Ceu Azul", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09533930405797061, 
+            "populacao": 0.6924552987352813
+        }
+    ], 
+    [
+        {
+            "bairro": "Alipio de Melo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.19016846006180158, 
+            "populacao": 0.027707515627271407
+        }
+    ], 
+    [
+        {
+            "bairro": "Alto Caicaras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.196061805293956, 
+            "populacao": 0.21546736444250617
+        }
+    ], 
+    [
+        {
+            "bairro": "Alto dos Pinheiros", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1420333732277452, 
+            "populacao": 0.09277511266172409
+        }
+    ], 
+    [
+        {
+            "bairro": "Alvaro Camargos", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.24123052714835574, 
+            "populacao": 0.003139991277802006
+        }
+    ], 
+    [
+        {
+            "bairro": "Aparecida", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10761436513904894, 
+            "populacao": 0.02857973542666085
+        }
+    ], 
+    [
+        {
+            "bairro": "Aparecida 7a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09002190254179761, 
+            "populacao": 0.14295682511993021
+        }
+    ], 
+    [
+        {
+            "bairro": "Bom Jesus", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10959333184134719, 
+            "populacao": 0.10510248582642825
+        }
+    ], 
+    [
+        {
+            "bairro": "Bonfim", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14578557935165326, 
+            "populacao": 0.12932112225614187
+        }
+    ], 
+    [
+        {
+            "bairro": "Caicara", 
+            "cidade": "Adelaide", 
+            "estado": "Belo Horizonte"
+        }, 
+        {
+            "renda": 0.22645152411943859, 
+            "populacao": 0.31382468382032275
+        }
+    ], 
+    [
+        {
+            "bairro": "Caicaras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1889011985467499, 
+            "populacao": 0.03823230120657072
+        }
+    ], 
+    [
+        {
+            "bairro": "California", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10245681928016764, 
+            "populacao": 0.017676987934292777
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Rica", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2533953109933894, 
+            "populacao": 0.005814798662596307
+        }
+    ], 
+    [
+        {
+            "bairro": "Carlos Prates", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.17338639614455956, 
+            "populacao": 0.4443959877889228
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto California I", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.17653671096753448, 
+            "populacao": 0.09731065561854921
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto California II", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1111024619161272, 
+            "populacao": 0.05050152638464893
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Celso Machado", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.20898231255070782, 
+            "populacao": 0.07838348597179823
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Jardim Filadelfia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06428560506756334, 
+            "populacao": 0.08728012792557058
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Novo Dom Bosco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07107414198055136, 
+            "populacao": 0.020468091292339004
+        }
+    ], 
+    [
+        {
+            "bairro": "Coqueiros", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10544218159880678, 
+            "populacao": 0.22293938072394243
+        }
+    ], 
+    [
+        {
+            "bairro": "Coracao Eucaristico", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.27228283608956916, 
+            "populacao": 0.22253234481756068
+        }
+    ], 
+    [
+        {
+            "bairro": "Delta", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06650412358093352, 
+            "populacao": 0.02773658962058439
+        }
+    ], 
+    [
+        {
+            "bairro": "Dom Bosco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11169832967055371, 
+            "populacao": 0.028259921500218055
+        }
+    ], 
+    [
+        {
+            "bairro": "Dom Cabral", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.17452206633592762, 
+            "populacao": 0.012443669137956099
+        }
+    ], 
+    [
+        {
+            "bairro": "Engenho Nogueira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.21572683123922423, 
+            "populacao": 0.03997674080534962
+        }
+    ], 
+    [
+        {
+            "bairro": "Ermelinda", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11555432613426854, 
+            "populacao": 0.10045064689635122
+        }
+    ], 
+    [
+        {
+            "bairro": "Gloria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11031754747133833, 
+            "populacao": 0.42526530018898095
+        }
+    ], 
+    [
+        {
+            "bairro": "Inconfidencia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11037036934070431, 
+            "populacao": 0.10074138682948103
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Alvorada", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08858644507429117, 
+            "populacao": 0.28823956970489895
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Montanhes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14181976900162496, 
+            "populacao": 0.17319377816543102
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Sao Jose", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08323846247585369, 
+            "populacao": 0.20247128943160342
+        }
+    ], 
+    [
+        {
+            "bairro": "Joao Pinheiro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.15021890958054337, 
+            "populacao": 0.028027329553714203
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Maloca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05261845883392479, 
+            "populacao": 0.01927605756650676
+        }
+    ], 
+    [
+        {
+            "bairro": "Lorena", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.22183239064830504, 
+            "populacao": 0.00264573339148132
+        }
+    ], 
+    [
+        {
+            "bairro": "Maravilha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09658386143618955, 
+            "populacao": 0.001628143625526966
+        }
+    ], 
+    [
+        {
+            "bairro": "Marmiteiros", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06283485705892464, 
+            "populacao": 0.022823084750690507
+        }
+    ], 
+    [
+        {
+            "bairro": "Minas Brasil", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.24102155641954837, 
+            "populacao": 0.10207879052187818
+        }
+    ], 
+    [
+        {
+            "bairro": "Monsenhor Messias", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1729990357692092, 
+            "populacao": 0.13051315598197413
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Cachoeirinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13367871422302968, 
+            "populacao": 0.13766535833696758
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Esperanca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10937277736925775, 
+            "populacao": 0.1286814944032563
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo Gloria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10326073106393902, 
+            "populacao": 0.22840529146678296
+        }
+    ], 
+    [
+        {
+            "bairro": "Oeste", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1114606312584069, 
+            "populacao": 0.11036487861607792
+        }
+    ], 
+    [
+        {
+            "bairro": "Padre Eustaquio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.20593486136807712, 
+            "populacao": 0.8365460095944178
+        }
+    ], 
+    [
+        {
+            "bairro": "Pedreira Padro Lopes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.058712897849454895, 
+            "populacao": 0.12946649222270679
+        }
+    ], 
+    [
+        {
+            "bairro": "Pindorama", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08836264715408278, 
+            "populacao": 0.5110917284489025
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Maria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12078230115230443, 
+            "populacao": 0.2056985026893444
+        }
+    ], 
+    [
+        {
+            "bairro": "Santo Andre", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11658852273448624, 
+            "populacao": 0.21546736444250617
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Paqueta", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.057265393288935165, 
+            "populacao": 0.02043901729902602
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Francisco das Chagas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0680521750331411, 
+            "populacao": 0.03913359499927315
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Salvador", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10215471525537287, 
+            "populacao": 0.1697630469544992
+        }
+    ], 
+    [
+        {
+            "bairro": "Senhor dos Passos", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06204855256494194, 
+            "populacao": 0.0828318069486844
+        }
+    ], 
+    [
+        {
+            "bairro": "Serrano", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14694905052689813, 
+            "populacao": 0.2898967873237389
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Antena Montanhes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05928652481677993, 
+            "populacao": 0.013025149004215728
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila California", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.054761451341096286, 
+            "populacao": 0.0009012937927024276
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Coqueiral", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05557138667137429, 
+            "populacao": 0.044570431748800696
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila das Oliveiras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09265465571493242, 
+            "populacao": 0.007006832388428551
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Jardim Alvorada", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06761569958627502, 
+            "populacao": 0.08070940543683675
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Jardim Montanhes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06848818713027587, 
+            "populacao": 0.007530164268062218
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Jardim Sao Jose", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0685322053547475, 
+            "populacao": 0.049367640645442655
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Cachoeirinha 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05941811614046354, 
+            "populacao": 0.06608518680040704
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova Cachoeirinha 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0724600210268108, 
+            "populacao": 0.004215729030382323
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Oeste", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08622243474529896, 
+            "populacao": 0.03893007704608228
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Puc", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12961560042943254, 
+            "populacao": 0.002587585404855357
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Santo Antonio Barroquinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07855353334287833, 
+            "populacao": 0.019392353539758687
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sumare", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05140077574012011, 
+            "populacao": 0.08684401802587585
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Trinta e Um de Marco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06516921300511491, 
+            "populacao": 0.044337839802296844
+        }
+    ], 
+    [
+        {
+            "bairro": "Aeroporto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.19797636638360633, 
+            "populacao": 0.03852304113970054
+        }
+    ], 
+    [
+        {
+            "bairro": "Bandeirantes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.37769999680288685, 
+            "populacao": 0.15781363570286377
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Francisco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07218803473454925, 
+            "populacao": 0.002006105538595726
+        }
+    ], 
+    [
+        {
+            "bairro": "Braunas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.21231101702022567, 
+            "populacao": 0.0590492804186655
+        }
+    ], 
+    [
+        {
+            "bairro": "Castelo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.28402921512725665, 
+            "populacao": 0.49667102776566363
+        }
+    ], 
+    [
+        {
+            "bairro": "Confisco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07415912449141575, 
+            "populacao": 0.12452391335949993
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Lagoa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1490202238257212, 
+            "populacao": 0.01924698357319378
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Sao Francisco de Assis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07431295660220082, 
+            "populacao": 0.00872219799389446
+        }
+    ], 
+    [
+        {
+            "bairro": "Copacabana", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12600239922490858, 
+            "populacao": 0.3876435528419828
+        }
+    ], 
+    [
+        {
+            "bairro": "Dona Clara", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.249351657888506, 
+            "populacao": 0.2571303968600087
+        }
+    ], 
+    [
+        {
+            "bairro": "Garcas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.35496620558734904, 
+            "populacao": 0.028085477540340166
+        }
+    ], 
+    [
+        {
+            "bairro": "Indaia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.19479732387729198, 
+            "populacao": 0.09643843581915976
+        }
+    ], 
+    [
+        {
+            "bairro": "Itatiaia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07914986444703612, 
+            "populacao": 0.0521296700101759
+        }
+    ], 
+    [
+        {
+            "bairro": "Jaragua", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.270262631261187, 
+            "populacao": 0.11801133885739207
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Atlantico", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.29813543434635487, 
+            "populacao": 0.04241895624364007
+        }
+    ], 
+    [
+        {
+            "bairro": "Liberdade", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2488387297359787, 
+            "populacao": 0.13016426806221834
+        }
+    ], 
+    [
+        {
+            "bairro": "Manacas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13229793202381432, 
+            "populacao": 0.23980229684547172
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova Pampulha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.15079577999598737, 
+            "populacao": 0.010175897659543538
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo Ouro Preto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05318189210716167, 
+            "populacao": 0.014595144643116733
+        }
+    ], 
+    [
+        {
+            "bairro": "Ouro Preto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2156902266104531, 
+            "populacao": 0.5016717546154964
+        }
+    ], 
+    [
+        {
+            "bairro": "Paqueta", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.24574448023048867, 
+            "populacao": 0.018665503706934147
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Rosa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2242612699396765, 
+            "populacao": 0.1954644570431749
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Terezinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1098685615817277, 
+            "populacao": 0.45913650239860443
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Francisco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11847435614079714, 
+            "populacao": 0.12760575665067597
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Jose", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.3772825186950033, 
+            "populacao": 0.0442506178223579
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Luiz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.46019153951191666, 
+            "populacao": 0.1384503561564181
+        }
+    ], 
+    [
+        {
+            "bairro": "Suzana", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07795534883979544, 
+            "populacao": 0.05774095071958133
+        }
+    ], 
+    [
+        {
+            "bairro": "Trevo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1256979784514574, 
+            "populacao": 0.1253379851722634
+        }
+    ], 
+    [
+        {
+            "bairro": "Universitario", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11134664722451193, 
+            "populacao": 0.05800261665939817
+        }
+    ], 
+    [
+        {
+            "bairro": "Urca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06897053420053868, 
+            "populacao": 0.13621165867131851
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Aeroporto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.058328780922223496, 
+            "populacao": 0.06082279401075738
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Aeroporto Jaragua", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06823288142834041, 
+            "populacao": 0.01796772786742259
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Engenho Nogueira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07121963379617337, 
+            "populacao": 0.007646460241314145
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Real 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04321292263866551, 
+            "populacao": 0.0031690652711149877
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Real 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.034656243151111786, 
+            "populacao": 0.01985753743276639
+        }
+    ], 
+    [
+        {
+            "bairro": "Tunel de Ibirite", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11823156088160626, 
+            "populacao": 0.055066143334787036
+        }
+    ], 
+    [
+        {
+            "bairro": "Marieta 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06708006729691497, 
+            "populacao": 0.035673789795028346
+        }
+    ], 
+    [
+        {
+            "bairro": "Marieta 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0664082101865585, 
+            "populacao": 0.0052623927896496584
+        }
+    ], 
+    [
+        {
+            "bairro": "Marieta 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06109822226608599, 
+            "populacao": 0.0027911033580462277
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Piratininga", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05541987130924563, 
+            "populacao": 0.049222270678877744
+        }
+    ], 
+    [
+        {
+            "bairro": "Jatoba", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07697721755706267, 
+            "populacao": 0.10021805494984737
+        }
+    ], 
+    [
+        {
+            "bairro": "Marilandia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0711505946862126, 
+            "populacao": 0.02514900421572903
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Batik", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.03559869650453596, 
+            "populacao": 0.0055822067160924554
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Olhos D'Agua", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06238355442065761, 
+            "populacao": 0.02593400203517953
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Pilar", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0634339682614701, 
+            "populacao": 0.0264573339148132
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Joao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.062011947936170785, 
+            "populacao": 0.04901875272568687
+        }
+    ], 
+    [
+        {
+            "bairro": "Serra do Curral", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08047458132876655, 
+            "populacao": 0.010001453699665649
+        }
+    ], 
+    [
+        {
+            "bairro": "Bonsucesso", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07916978848548117, 
+            "populacao": 0.1867713330425934
+        }
+    ], 
+    [
+        {
+            "bairro": "Bernadete", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06007421935995648, 
+            "populacao": 0.044076173862480014
+        }
+    ], 
+    [
+        {
+            "bairro": "Alto das Antenas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.03782972546065072, 
+            "populacao": 0.011164413432184911
+        }
+    ], 
+    [
+        {
+            "bairro": "Esperanca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04881435754011334, 
+            "populacao": 0.06239278964965838
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Cemig", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05336676864994252, 
+            "populacao": 0.16479139409797935
+        }
+    ], 
+    [
+        {
+            "bairro": "Flavio Marques Lisboa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08422493405374949, 
+            "populacao": 0.22855066143334787
+        }
+    ], 
+    [
+        {
+            "bairro": "Flavio de Oliveira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09770424108642538, 
+            "populacao": 0.08350050879488298
+        }
+    ], 
+    [
+        {
+            "bairro": "Cardoso", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10522023707752351, 
+            "populacao": 0.30766099723797063
+        }
+    ], 
+    [
+        {
+            "bairro": "Araguaia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09322133243628826, 
+            "populacao": 0.42549789213548483
+        }
+    ], 
+    [
+        {
+            "bairro": "Milionario", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10677755552435667, 
+            "populacao": 0.35397586858555025
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova dos Milionarios", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06255175037311236, 
+            "populacao": 0.017066434074720162
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Copasa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0651154644362864, 
+            "populacao": 0.009332751853467073
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Bonsucesso", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.056353984367506764, 
+            "populacao": 0.0029946213112370984
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo das Industrias", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08807305357203257, 
+            "populacao": 0.13414740514609683
+        }
+    ], 
+    [
+        {
+            "bairro": "Alta Tensao 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055605674551489036, 
+            "populacao": 0.01154237534525367
+        }
+    ], 
+    [
+        {
+            "bairro": "Alta Tensao 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06141469013255046, 
+            "populacao": 0.0058438726559092895
+        }
+    ], 
+    [
+        {
+            "bairro": "das Industrias I", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0917506603892045, 
+            "populacao": 0.2669574065997965
+        }
+    ], 
+    [
+        {
+            "bairro": "Pongelupe", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11640457289116793, 
+            "populacao": 0.007791830207879052
+        }
+    ], 
+    [
+        {
+            "bairro": "Solar do Barreiro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07238449502061212, 
+            "populacao": 0.12748946067742403
+        }
+    ], 
+    [
+        {
+            "bairro": "Corumbiara", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055186806394411626, 
+            "populacao": 0.027678441633958425
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Ecologica", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.044507521787862735, 
+            "populacao": 0.049542084605320544
+        }
+    ], 
+    [
+        {
+            "bairro": "Distrito Industrial do Jatoba", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.03395704840660978, 
+            "populacao": 0.01872365169356011
+        }
+    ], 
+    [
+        {
+            "bairro": "Aguas Claras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.051133422945171356, 
+            "populacao": 0.05881668847216165
+        }
+    ], 
+    [
+        {
+            "bairro": "Vitoria da Conquista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04905298265172271, 
+            "populacao": 0.03442360808257014
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Independencia 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.058695290559666234, 
+            "populacao": 0.08789068178514318
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Independencia 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07432963719252692, 
+            "populacao": 0.028492513446721907
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila independencia 3a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05668296267671579, 
+            "populacao": 0.010699229539177206
+        }
+    ], 
+    [
+        {
+            "bairro": "Independencia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06652451096910986, 
+            "populacao": 0.24230266027038813
+        }
+    ], 
+    [
+        {
+            "bairro": "Mineirao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07160004392555452, 
+            "populacao": 0.12312836168047682
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Mangueiras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0563178430884669, 
+            "populacao": 0.055327809274603866
+        }
+    ], 
+    [
+        {
+            "bairro": "Mangueiras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08552648344891592, 
+            "populacao": 0.100799534816107
+        }
+    ], 
+    [
+        {
+            "bairro": "Petropolis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08376853456843837, 
+            "populacao": 0.006250908562291031
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Petropolis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.046455444058165214, 
+            "populacao": 0.008664050007268498
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Rita", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06507005616262092, 
+            "populacao": 0.00811164413432185
+        }
+    ], 
+    [
+        {
+            "bairro": "Ernesto Nascimento", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11003490413525734, 
+            "populacao": 0.062276493676406454
+        }
+    ], 
+    [
+        {
+            "bairro": "Vale do Jatoba", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08527951804214351, 
+            "populacao": 0.23395842418956245
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim do Vale", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06226632693864369, 
+            "populacao": 0.03247565053060038
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Jatoba", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06096014404616446, 
+            "populacao": 0.010815525512429132
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo Santa Cecilia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09063815768440045, 
+            "populacao": 0.06846925425207152
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Pinho", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.061834021639359145, 
+            "populacao": 0.23913359499927314
+        }
+    ], 
+    [
+        {
+            "bairro": "Brasil Industrial", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09679097876607186, 
+            "populacao": 0.02043901729902602
+        }
+    ], 
+    [
+        {
+            "bairro": "Diamante", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11924583344337888, 
+            "populacao": 0.34827736589620584
+        }
+    ], 
+    [
+        {
+            "bairro": "Olaria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07006728301447922, 
+            "populacao": 0.16793138537578137
+        }
+    ], 
+    [
+        {
+            "bairro": "CDI Jatoba", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08765696551334284, 
+            "populacao": 0.005931094635848234
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Cecilia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06957844904797847, 
+            "populacao": 0.08480883849396714
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Formosa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05487080187767845, 
+            "populacao": 0.04198284634394534
+        }
+    ], 
+    [
+        {
+            "bairro": "Castanheira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0657252326826513, 
+            "populacao": 0.01642680622183457
+        }
+    ], 
+    [
+        {
+            "bairro": "Miramar", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10876439917208669, 
+            "populacao": 0.17804913504869893
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Helena", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.12381955864084696, 
+            "populacao": 0.1557203081843291
+        }
+    ], 
+    [
+        {
+            "bairro": "Teixeira Dias", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13399981558680693, 
+            "populacao": 0.020497165285651986
+        }
+    ], 
+    [
+        {
+            "bairro": "Barreiro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1900924707058716, 
+            "populacao": 0.2687309201918884
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Margarida", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08817128371506401, 
+            "populacao": 0.06718999854630034
+        }
+    ], 
+    [
+        {
+            "bairro": "Ademar Maldonado", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.15578420320295136, 
+            "populacao": 0.05242040994330571
+        }
+    ], 
+    [
+        {
+            "bairro": "Atila de Paiva", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13250597605315917, 
+            "populacao": 0.03509230992876872
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Atila de Paiva", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.048549321493821, 
+            "populacao": 0.04599505742113679
+        }
+    ], 
+    [
+        {
+            "bairro": "Joao Paulo II", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10206436205777322, 
+            "populacao": 0.05210059601686291
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Tirol", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06236085028382487, 
+            "populacao": 0.00604739060910016
+        }
+    ], 
+    [
+        {
+            "bairro": "Tirol", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11962763362195389, 
+            "populacao": 0.33062945195522603
+        }
+    ], 
+    [
+        {
+            "bairro": "Lindeia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0780313381957254, 
+            "populacao": 0.7020206425352522
+        }
+    ], 
+    [
+        {
+            "bairro": "Serra Verde", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08286268584378534, 
+            "populacao": 0.4071812763483064
+        }
+    ], 
+    [
+        {
+            "bairro": "Varzea da Palma", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06199851079396366, 
+            "populacao": 0.0036342491641226924
+        }
+    ], 
+    [
+        {
+            "bairro": "Venda Nova", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09000892874932176, 
+            "populacao": 0.07803459805204245
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Canto do Sabia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07201242518639402, 
+            "populacao": 0.005029800843145806
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Copacabana", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05320413289426312, 
+            "populacao": 0.039191742985899114
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila dos Anjos", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05299886896330594, 
+            "populacao": 0.023491786596889084
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Satelite", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07802531464921877, 
+            "populacao": 0.003721471144061637
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Joao Batista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0549518880806525, 
+            "populacao": 0.0722779473760721
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Piratininga Venda Nova", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055929556013653986, 
+            "populacao": 0.010641081552551243
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Marcos", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09210141613578371, 
+            "populacao": 0.20133740369239714
+        }
+    ], 
+    [
+        {
+            "bairro": "Ipe", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0903587577964384, 
+            "populacao": 0.13626980665794447
+        }
+    ], 
+    [
+        {
+            "bairro": "Goiania", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08332232877721542, 
+            "populacao": 0.47184183747637737
+        }
+    ], 
+    [
+        {
+            "bairro": "Morro dos Macacos", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.053641998390323034, 
+            "populacao": 0.009885157726413723
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Benedito", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05351874736180246, 
+            "populacao": 0.046431167320831516
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila da Luz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04054263813729701, 
+            "populacao": 0.043349324029655474
+        }
+    ], 
+    [
+        {
+            "bairro": "Maria Goretti", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08411280341877965, 
+            "populacao": 0.24715801715365607
+        }
+    ], 
+    [
+        {
+            "bairro": "Piraja", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11850632727225549, 
+            "populacao": 0.09393807239424334
+        }
+    ], 
+    [
+        {
+            "bairro": "Eymard", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10063956163408623, 
+            "populacao": 0.11475505160633813
+        }
+    ], 
+    [
+        {
+            "bairro": "Vitoria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08849006833018487, 
+            "populacao": 0.09986916703009158
+        }
+    ], 
+    [
+        {
+            "bairro": "Pousada Santo Antonio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09402709761898473, 
+            "populacao": 0.04736153510684692
+        }
+    ], 
+    [
+        {
+            "bairro": "Bela Vitoria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08975084294899863, 
+            "populacao": 0.019305131559819742
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Vitoria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07567705821109008, 
+            "populacao": 0.277191452245966
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Maria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05776256755059895, 
+            "populacao": 0.154324756505306
+        }
+    ], 
+    [
+        {
+            "bairro": "Mirtes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05366840932500601, 
+            "populacao": 0.010059601686291612
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Gabriel", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09935700957790229, 
+            "populacao": 0.3990696322139846
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Gabriel Jacui", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05775515395489846, 
+            "populacao": 0.020322721325774094
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Dimas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04157173789047061, 
+            "populacao": 0.005640354702718418
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Esplanada", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11753885303334216, 
+            "populacao": 0.02878325337985172
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Sao Gabriel", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04328752194540165, 
+            "populacao": 0.012211077191452245
+        }
+    ], 
+    [
+        {
+            "bairro": "Dom Silverio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07446771541244844, 
+            "populacao": 0.12196540194795755
+        }
+    ], 
+    [
+        {
+            "bairro": "Boa Esperanca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.061551841653009434, 
+            "populacao": 0.01587440034888792
+        }
+    ], 
+    [
+        {
+            "bairro": "Tres Marias", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04456775725292918, 
+            "populacao": 0.017066434074720162
+        }
+    ], 
+    [
+        {
+            "bairro": "Ouro Minas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08732103695816461, 
+            "populacao": 0.12045355429568251
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Ouro Minas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06193920202835978, 
+            "populacao": 0.017095508068033144
+        }
+    ], 
+    [
+        {
+            "bairro": "Belmonte", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07845391315065307, 
+            "populacao": 0.06500944904782673
+        }
+    ], 
+    [
+        {
+            "bairro": "Nazare", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0714026569400291, 
+            "populacao": 0.23788341328681495
+        }
+    ], 
+    [
+        {
+            "bairro": "Vista do Sol", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07006218616743512, 
+            "populacao": 0.14888791975577845
+        }
+    ], 
+    [
+        {
+            "bairro": "Grotinha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.02665836343948212, 
+            "populacao": 0.012996075010902747
+        }
+    ], 
+    [
+        {
+            "bairro": "Acaiaca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09381395674259578, 
+            "populacao": 0.07457479284779764
+        }
+    ], 
+    [
+        {
+            "bairro": "Paulo VI", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07293449115164186, 
+            "populacao": 0.18040412850705045
+        }
+    ], 
+    [
+        {
+            "bairro": "Beira Linha", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.058513657465004344, 
+            "populacao": 0.12013374036923971
+        }
+    ], 
+    [
+        {
+            "bairro": "Ribeiro de Abreu", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08069606250031855, 
+            "populacao": 0.04657653728739643
+        }
+    ], 
+    [
+        {
+            "bairro": "Antonio Ribeiro de Abreu 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05366655592608089, 
+            "populacao": 0.014071812763483064
+        }
+    ], 
+    [
+        {
+            "bairro": "Capitao Eduardo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05682150424636861, 
+            "populacao": 0.03651693560110481
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Paulo VI", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055509761157114014, 
+            "populacao": 0.09385085041430441
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Capitao Eduardo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06160049337479387, 
+            "populacao": 0.08085477540340166
+        }
+    ], 
+    [
+        {
+            "bairro": "Beija Flor", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08077158850651724, 
+            "populacao": 0.036575083587730775
+        }
+    ], 
+    [
+        {
+            "bairro": "Itapoa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.2333406079241144, 
+            "populacao": 0.27550516063381303
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Amelia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.22788281143936348, 
+            "populacao": 0.5287977903765082
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Branca", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1903959647798602, 
+            "populacao": 0.15569123419101613
+        }
+    ], 
+    [
+        {
+            "bairro": "Santa Monica", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.13071003249471666, 
+            "populacao": 0.6943741822939381
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Tomaz", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06558391101461081, 
+            "populacao": 0.2155836604157581
+        }
+    ], 
+    [
+        {
+            "bairro": "Unidas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0627018756860472, 
+            "populacao": 0.010670155545864224
+        }
+    ], 
+    [
+        {
+            "bairro": "Universo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.048549321493821, 
+            "populacao": 0.0823666230556767
+        }
+    ], 
+    [
+        {
+            "bairro": "Aarao Reis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10041113021656503, 
+            "populacao": 0.08611716819305132
+        }
+    ], 
+    [
+        {
+            "bairro": "Bacurau", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07858735787326179, 
+            "populacao": 0.00302369530455008
+        }
+    ], 
+    [
+        {
+            "bairro": "Biquinhas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055618648343964884, 
+            "populacao": 0.04858264282599215
+        }
+    ], 
+    [
+        {
+            "bairro": "Boa Uniao 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05548057012404336, 
+            "populacao": 0.008983863933711296
+        }
+    ], 
+    [
+        {
+            "bairro": "Boa Uniao 2a secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.038543747396553696, 
+            "populacao": 0.005146096816397733
+        }
+    ], 
+    [
+        {
+            "bairro": "Campo Alegre", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11371297430216055, 
+            "populacao": 0.08070940543683675
+        }
+    ], 
+    [
+        {
+            "bairro": "Canaa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11091804872307763, 
+            "populacao": 0.07599941852013374
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Floramar", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06407061079224927, 
+            "populacao": 0.02663177787469109
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Providencia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0640604170981611, 
+            "populacao": 0.008227940107573776
+        }
+    ], 
+    [
+        {
+            "bairro": "Etelvina Carneiro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11508031935916878, 
+            "populacao": 0.06777147841255997
+        }
+    ], 
+    [
+        {
+            "bairro": "Floramar", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1098263967561812, 
+            "populacao": 0.28419828463439456
+        }
+    ], 
+    [
+        {
+            "bairro": "Frei Leopoldo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08076185816216036, 
+            "populacao": 0.05800261665939817
+        }
+    ], 
+    [
+        {
+            "bairro": "Granja Werneck", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05456313765610831, 
+            "populacao": 0.06012501817124582
+        }
+    ], 
+    [
+        {
+            "bairro": "Guarani", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11791787311352948, 
+            "populacao": 0.22439308038959152
+        }
+    ], 
+    [
+        {
+            "bairro": "Heliopolis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.1537477811339743, 
+            "populacao": 0.19406890536415178
+        }
+    ], 
+    [
+        {
+            "bairro": "Jaqueline", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08407249199215827, 
+            "populacao": 0.470853321703736
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Felicidade", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06368742056448044, 
+            "populacao": 0.4502398604448321
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Guanabara", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10230391386884514, 
+            "populacao": 0.3382759121965402
+        }
+    ], 
+    [
+        {
+            "bairro": "Juliana", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0732134276898726, 
+            "populacao": 0.17130396860008723
+        }
+    ], 
+    [
+        {
+            "bairro": "Lajedo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.083579487878076, 
+            "populacao": 0.14135775548771623
+        }
+    ], 
+    [
+        {
+            "bairro": "Madri", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07953212797534238, 
+            "populacao": 0.027300479720889663
+        }
+    ], 
+    [
+        {
+            "bairro": "Maria Tereza", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06564646322833365, 
+            "populacao": 0.010844599505742113
+        }
+    ], 
+    [
+        {
+            "bairro": "Mariquinhas", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.053630414647041026, 
+            "populacao": 0.062421863642971365
+        }
+    ], 
+    [
+        {
+            "bairro": "Minaslandia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09785621979828532, 
+            "populacao": 0.018869021660125017
+        }
+    ], 
+    [
+        {
+            "bairro": "Mirante", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.043306519284384136, 
+            "populacao": 0.01642680622183457
+        }
+    ], 
+    [
+        {
+            "bairro": "Monte Azul", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06282744346322416, 
+            "populacao": 0.1015845326355575
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo Aarao Reis", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05360771051020829, 
+            "populacao": 0.240936182584678
+        }
+    ], 
+    [
+        {
+            "bairro": "Novo Tupi", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06008997325082001, 
+            "populacao": 0.08861753161796773
+        }
+    ], 
+    [
+        {
+            "bairro": "Planalto", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.16690598680287294, 
+            "populacao": 0.4888501235644716
+        }
+    ], 
+    [
+        {
+            "bairro": "Primeiro de Maio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07190214795034928, 
+            "populacao": 0.07038813781072831
+        }
+    ], 
+    [
+        {
+            "bairro": "Providencia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08026190380210889, 
+            "populacao": 0.023171972670446284
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila SESC", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06069047450255931, 
+            "populacao": 0.009972379706352667
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Bernardo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08803598559353015, 
+            "populacao": 0.26434074720162815
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Damiao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06277925509117101, 
+            "populacao": 0.009303677860154092
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Goncalo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08566826846668771, 
+            "populacao": 0.07553423462712604
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Jardim Leblon", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05582205887599695, 
+            "populacao": 0.0065416484954208464
+        }
+    ], 
+    [
+        {
+            "bairro": "Satelite", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0944848871534897, 
+            "populacao": 0.014013664776857102
+        }
+    ], 
+    [
+        {
+            "bairro": "Solimoes", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07519054099324575, 
+            "populacao": 0.044163395842418955
+        }
+    ], 
+    [
+        {
+            "bairro": "Tupi A", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.0833204753782903, 
+            "populacao": 0.310161360662887
+        }
+    ], 
+    [
+        {
+            "bairro": "Tupi B", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.084943126137234, 
+            "populacao": 0.39328390754470127
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Cloris", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14376305777461465, 
+            "populacao": 0.20808257014100887
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Minaslandia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05703510847248884, 
+            "populacao": 0.024887338275912198
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Nova", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.054153999843387784, 
+            "populacao": 0.01718273004797209
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Primeiro de Maio", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.057907132666758405, 
+            "populacao": 0.11702282308475069
+        }
+    ], 
+    [
+        {
+            "bairro": "Xodo", 
+            "cidade": "Marize", 
+            "estado": "Belo Horizonte"
+        }, 
+        {
+            "renda": 0.07309156671054588, 
+            "populacao": 0.043581915976159326
+        }
+    ], 
+    [
+        {
+            "bairro": "Zilah Sposito", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05354469494675416, 
+            "populacao": 0.0766971943596453
+        }
+    ], 
+    [
+        {
+            "bairro": "Apolonia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05010385984226648, 
+            "populacao": 0.19095798807966274
+        }
+    ], 
+    [
+        {
+            "bairro": "Candelaria", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11690082045336916, 
+            "populacao": 0.21790957988079662
+        }
+    ], 
+    [
+        {
+            "bairro": "Cenaculo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09305776998114629, 
+            "populacao": 0.06684111062654456
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Minas Caixa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05561308814718953, 
+            "populacao": 0.12853612443669138
+        }
+    ], 
+    [
+        {
+            "bairro": "Conjunto Serra Verde", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06155693850005351, 
+            "populacao": 0.006977758395115569
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Mantiqueira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06760550589218685, 
+            "populacao": 0.020671609245529875
+        }
+    ], 
+    [
+        {
+            "bairro": "Europa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08665844684243375, 
+            "populacao": 0.2926297426951592
+        }
+    ], 
+    [
+        {
+            "bairro": "Flamengo", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.05586978389831882, 
+            "populacao": 0.009536269806657945
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim dos Comerciarios", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07510111449510865, 
+            "populacao": 0.6174734699811019
+        }
+    ], 
+    [
+        {
+            "bairro": "Jardim Leblon", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.089534921974222, 
+            "populacao": 0.027503997674080537
+        }
+    ], 
+    [
+        {
+            "bairro": "Lagoa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.06708516414395904, 
+            "populacao": 0.2653583369675825
+        }
+    ], 
+    [
+        {
+            "bairro": "Lagoinha Leblon", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07940470679924029, 
+            "populacao": 0.17365896205843873
+        }
+    ], 
+    [
+        {
+            "bairro": "Laranjeiras", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07219081483293693, 
+            "populacao": 0.00473906091001599
+        }
+    ], 
+    [
+        {
+            "bairro": "Leticia", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09188873860912604, 
+            "populacao": 0.22430585840965256
+        }
+    ], 
+    [
+        {
+            "bairro": "Mantiqueira", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07376898401767772, 
+            "populacao": 0.5896787323738916
+        }
+    ], 
+    [
+        {
+            "bairro": "Maria Helena", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08858922517267886, 
+            "populacao": 0.22337549062363715
+        }
+    ], 
+    [
+        {
+            "bairro": "Minas Caixa", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.09376762176946775, 
+            "populacao": 0.30795173717110047
+        }
+    ], 
+    [
+        {
+            "bairro": "Sao Joao Batista", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.14017024395826702, 
+            "populacao": 0.47980811164413434
+        }
+    ], 
+    [
+        {
+            "bairro": "Nova America", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.04233348484869546, 
+            "populacao": 0.002878325337985172
+        }
+    ], 
+    [
+        {
+            "bairro": "Parque Sao Pedro", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.10390664058934379, 
+            "populacao": 0.0672481465329263
+        }
+    ], 
+    [
+        {
+            "bairro": "Piratininga", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.08013216587735039, 
+            "populacao": 0.6148858845762466
+        }
+    ], 
+    [
+        {
+            "bairro": "Rio Branco", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.11212090462548135, 
+            "populacao": 0.37121674662014825
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Santa Monica 1a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.053877380053813435, 
+            "populacao": 0.05201337403692397
+        }
+    ], 
+    [
+        {
+            "bairro": "Vila Santa Monica 2a Secao", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.055007953398137424, 
+            "populacao": 0.009972379706352667
+        }
+    ], 
+    [
+        {
+            "bairro": "Itaipu", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.07741183960500361, 
+            "populacao": 0.2522459659834278
+        }
+    ], 
+    [
+        {
+            "bairro": "Nossa Senhora Aparecida", 
+            "cidade": "Belo Horizonte", 
+            "estado": "MG"
+        }, 
+        {
+            "renda": 0.051278451411062104, 
+            "populacao": 0.046605611280709405
+        }
+    ]
+]
