@@ -15,24 +15,26 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
 </head>
 <body>
-<div id="main">
+<section id="main">
 	<h1>Mapa</h1>
 	<div id="heatmapArea">
 
 	</div>
-	<div id="configArea">
-		<div id="renda" class="btn">Ver por Renda</div>
-		<div id="populacao" class="btn">Ver por População</div>
+	<nav id="configArea">
 		<p>Renda  <br /><small>menos importante para mais importante</small></p>
 		<div id="slider-renda" data-dado="renda"></div>
 		<p>População  <br /><small>menos importante para mais importante</small></p>
 		<div id="slider-populacao" data-dado="populacao" ></div>
 		<p>Empresas de TI <br /><small>menos importante para mais importante</small></p>
 		<div id="slider-empresasti"></div>
-	</div>
-</div>
+		<div id="dados-bh">
+
+		</div>
+	</nav>
+</section>
 <div id="GoogleMapControl"></div>
 
 <script type="text/javascript" src="js/tcc.js"></script>
+<script type="text/javascript" src="js/linked.js"></script>
 </body>
 </html>
