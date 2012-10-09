@@ -1,9 +1,10 @@
 [
     [
         {
-            "bairro": "Santa Ines", 
+            "bairro": "Santa In\u00eas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Ines"
         }, 
         {
             "renda": 0.20695979097366923, 
@@ -12,9 +13,10 @@
     ], 
     [
         {
-            "bairro": "Horto Florestal", 
+            "bairro": "Horto Florestal ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Horto Florestal"
         }, 
         {
             "renda": 0.12155980200139282, 
@@ -23,9 +25,10 @@
     ], 
     [
         {
-            "bairro": "Camponesa 1a secao", 
+            "bairro": "Camponesa 1\u00aa se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Camponesa 1a secao"
         }, 
         {
             "renda": 0.11285716734848578, 
@@ -34,9 +37,10 @@
     ], 
     [
         {
-            "bairro": "Sagrada Familia", 
+            "bairro": "Sagrada Fam\u00edlia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sagrada Familia"
         }, 
         {
             "renda": 0.2192385588525978, 
@@ -45,9 +49,10 @@
     ], 
     [
         {
-            "bairro": "Nova Vista", 
+            "bairro": "Nova Vista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Vista"
         }, 
         {
             "renda": 0.132274301187519, 
@@ -56,9 +61,10 @@
     ], 
     [
         {
-            "bairro": "Boa Vista", 
+            "bairro": "Boa Vista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Boa Vista"
         }, 
         {
             "renda": 0.11544868239553664, 
@@ -67,9 +73,10 @@
     ], 
     [
         {
-            "bairro": "Vila Boa Vista", 
+            "bairro": "Vila Boa Vista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Boa Vista"
         }, 
         {
             "renda": 0.06741506915263064, 
@@ -78,9 +85,10 @@
     ], 
     [
         {
-            "bairro": "Casa Branca", 
+            "bairro": "Casa Branca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Casa Branca"
         }, 
         {
             "renda": 0.09852483346052283, 
@@ -89,9 +97,10 @@
     ], 
     [
         {
-            "bairro": "Colegio Batista", 
+            "bairro": "Col\u00e9gio Batista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Colegio Batista"
         }, 
         {
             "renda": 0.2402435922207287, 
@@ -100,9 +109,10 @@
     ], 
     [
         {
-            "bairro": "Floresta", 
+            "bairro": "Floresta ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Floresta"
         }, 
         {
             "renda": 0.24050955496648357, 
@@ -111,9 +121,10 @@
     ], 
     [
         {
-            "bairro": "Santa Tereza", 
+            "bairro": "Santa Tereza ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Tereza"
         }, 
         {
             "renda": 0.23910699532989804, 
@@ -122,9 +133,10 @@
     ], 
     [
         {
-            "bairro": "Sao Vicente", 
+            "bairro": "S\u00e3o Vicente ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Vicente"
         }, 
         {
             "renda": 0.054931964042207446, 
@@ -133,9 +145,10 @@
     ], 
     [
         {
-            "bairro": "Buraco Quente", 
+            "bairro": "Buraco Quente ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Buraco Quente"
         }, 
         {
             "renda": 0.06737661112493437, 
@@ -144,9 +157,10 @@
     ], 
     [
         {
-            "bairro": "Horto", 
+            "bairro": "Horto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Horto"
         }, 
         {
             "renda": 0.18164004490785596, 
@@ -155,9 +169,10 @@
     ], 
     [
         {
-            "bairro": "Joao Alfredo", 
+            "bairro": "Jo\u00e3o Alfredo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Joao Alfredo"
         }, 
         {
             "renda": 0.078189340454092, 
@@ -166,9 +181,10 @@
     ], 
     [
         {
-            "bairro": "Sao Geraldo", 
+            "bairro": "S\u00e3o Geraldo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Geraldo"
         }, 
         {
             "renda": 0.10950066189509111, 
@@ -177,9 +193,10 @@
     ], 
     [
         {
-            "bairro": "Camponesa 2a Secao", 
+            "bairro": "Camponesa 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Camponesa 2a Secao"
         }, 
         {
             "renda": 0.07177611682344104, 
@@ -188,9 +205,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Geraldo", 
+            "bairro": "Vila S\u00e3o Geraldo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Geraldo"
         }, 
         {
             "renda": 0.05848446643193369, 
@@ -199,9 +217,10 @@
     ], 
     [
         {
-            "bairro": "Grota", 
+            "bairro": "Grota ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Grota"
         }, 
         {
             "renda": 0.07871385234990132, 
@@ -210,9 +229,10 @@
     ], 
     [
         {
-            "bairro": "Mariano de Abreu", 
+            "bairro": "Mariano de Abreu ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mariano de Abreu"
         }, 
         {
             "renda": 0.06488795971822776, 
@@ -221,9 +241,10 @@
     ], 
     [
         {
-            "bairro": "Esplanada", 
+            "bairro": "Esplanada ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Esplanada"
         }, 
         {
             "renda": 0.1888252091908199, 
@@ -232,9 +253,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nossa Senhora do Rosario", 
+            "bairro": "Vila Nossa Senhora do Ros\u00e1rio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nossa Senhora do Rosario"
         }, 
         {
             "renda": 0.0855621613782245, 
@@ -243,9 +265,10 @@
     ], 
     [
         {
-            "bairro": "Pompeia", 
+            "bairro": "Pomp\u00e9ia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pompeia"
         }, 
         {
             "renda": 0.146274413318154, 
@@ -254,9 +277,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Rafael", 
+            "bairro": "Vila S\u00e3o Rafael ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Rafael"
         }, 
         {
             "renda": 0.06079750829048507, 
@@ -265,9 +289,10 @@
     ], 
     [
         {
-            "bairro": "Vera Cruz", 
+            "bairro": "Vera Cruz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vera Cruz"
         }, 
         {
             "renda": 0.12508125995912328, 
@@ -276,9 +301,10 @@
     ], 
     [
         {
-            "bairro": "Saudade", 
+            "bairro": "Saudade ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Saudade"
         }, 
         {
             "renda": 0.12209404424155905, 
@@ -287,9 +313,10 @@
     ], 
     [
         {
-            "bairro": "Alto Vera Cruz", 
+            "bairro": "Alto Vera Cruz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alto Vera Cruz"
         }, 
         {
             "renda": 0.07665889629167309, 
@@ -298,9 +325,10 @@
     ], 
     [
         {
-            "bairro": "Caetano Furquim", 
+            "bairro": "Caetano Furquim ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Caetano Furquim"
         }, 
         {
             "renda": 0.053028986695839164, 
@@ -309,9 +337,10 @@
     ], 
     [
         {
-            "bairro": "Taquaril", 
+            "bairro": "Taquaril ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Taquaril"
         }, 
         {
             "renda": 0.07162043131373086, 
@@ -320,9 +349,10 @@
     ], 
     [
         {
-            "bairro": "Granja de Freitas", 
+            "bairro": "Granja de Freitas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Granja de Freitas"
         }, 
         {
             "renda": 0.05396402645356286, 
@@ -331,9 +361,10 @@
     ], 
     [
         {
-            "bairro": "Vila da Aria", 
+            "bairro": "Vila da \u00c1ria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila da Aria"
         }, 
         {
             "renda": 0.05107782097741772, 
@@ -342,9 +373,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Taquaril", 
+            "bairro": "Conjunto Taquaril ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Taquaril"
         }, 
         {
             "renda": 0.05351411386448966, 
@@ -353,9 +385,10 @@
     ], 
     [
         {
-            "bairro": "Jonas Veiga", 
+            "bairro": "Jonas Veiga ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jonas Veiga"
         }, 
         {
             "renda": 0.12098988183191801, 
@@ -364,9 +397,10 @@
     ], 
     [
         {
-            "bairro": "Pirineus", 
+            "bairro": "Pirineus ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pirineus"
         }, 
         {
             "renda": 0.18334795201735524, 
@@ -375,9 +409,10 @@
     ], 
     [
         {
-            "bairro": "Cidade Jardim Taquaril", 
+            "bairro": "Cidade Jardim Taquaril ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cidade Jardim Taquaril"
         }, 
         {
             "renda": 0.33888935996111563, 
@@ -386,9 +421,10 @@
     ], 
     [
         {
-            "bairro": "Baleia", 
+            "bairro": "Baleia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Baleia"
         }, 
         {
             "renda": 0.05756147376722329, 
@@ -397,9 +433,10 @@
     ], 
     [
         {
-            "bairro": "Santa Efigenia", 
+            "bairro": "Santa Efig\u00eania ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Efigenia"
         }, 
         {
             "renda": 0.24322988123883038, 
@@ -408,9 +445,10 @@
     ], 
     [
         {
-            "bairro": "Paraiso", 
+            "bairro": "Para\u00edso ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Paraiso"
         }, 
         {
             "renda": 0.15082404432959548, 
@@ -419,9 +457,10 @@
     ], 
     [
         {
-            "bairro": "Vila Uniao", 
+            "bairro": "Vila Uni\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Uniao"
         }, 
         {
             "renda": 0.06867399037251927, 
@@ -430,9 +469,10 @@
     ], 
     [
         {
-            "bairro": "Conego Pinheiro 1a Secao", 
+            "bairro": "C\u00f4nego Pinheiro 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conego Pinheiro 1a Secao"
         }, 
         {
             "renda": 0.08137579655610679, 
@@ -441,9 +481,10 @@
     ], 
     [
         {
-            "bairro": "Conego Pinheiro 2a Secao", 
+            "bairro": "C\u00f4nego Pinheiro 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conego Pinheiro 2a Secao"
         }, 
         {
             "renda": 0.06694569587484367, 
@@ -452,9 +493,10 @@
     ], 
     [
         {
-            "bairro": "Vila Paraiso", 
+            "bairro": "Vila Para\u00edso ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Paraiso"
         }, 
         {
             "renda": 0.06923742364575615, 
@@ -463,9 +505,10 @@
     ], 
     [
         {
-            "bairro": "Novo Sao Lucas", 
+            "bairro": "Novo S\u00e3o Lucas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo Sao Lucas"
         }, 
         {
             "renda": 0.2529208408685583, 
@@ -474,9 +517,10 @@
     ], 
     [
         {
-            "bairro": "Vila Novo Sao Lucas", 
+            "bairro": "Vila Novo S\u00e3o Lucas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Novo Sao Lucas"
         }, 
         {
             "renda": 0.06060799825039141, 
@@ -485,9 +529,10 @@
     ], 
     [
         {
-            "bairro": "Fazendinha", 
+            "bairro": "Fazendinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Fazendinha"
         }, 
         {
             "renda": 0.052075876298595544, 
@@ -496,9 +541,10 @@
     ], 
     [
         {
-            "bairro": "Nossa Senhora do Rosario", 
+            "bairro": "Nossa Senhora do Ros\u00e1rio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nossa Senhora do Rosario"
         }, 
         {
             "renda": 0.07262126673329636, 
@@ -507,9 +553,10 @@
     ], 
     [
         {
-            "bairro": "Vila Santo Antonio", 
+            "bairro": "Vila Santo Ant\u00f4nio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Santo Antonio"
         }, 
         {
             "renda": 0.056352130968581646, 
@@ -518,9 +565,10 @@
     ], 
     [
         {
-            "bairro": "Lagoinha", 
+            "bairro": "Lagoinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lagoinha"
         }, 
         {
             "renda": 0.14190919549976205, 
@@ -529,9 +577,10 @@
     ], 
     [
         {
-            "bairro": "Sao Cristovao", 
+            "bairro": "S\u00e3o Crist\u00f3v\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Cristovao"
         }, 
         {
             "renda": 0.11563309558858621, 
@@ -540,9 +589,10 @@
     ], 
     [
         {
-            "bairro": "Cachoeirinha", 
+            "bairro": "Cachoeirinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cachoeirinha"
         }, 
         {
             "renda": 0.14106404558990676, 
@@ -551,9 +601,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Cachoeirinha 3a Secao", 
+            "bairro": "Vila Nova Cachoeirinha 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Cachoeirinha 3a Secao"
         }, 
         {
             "renda": 0.07622937109077624, 
@@ -562,9 +613,10 @@
     ], 
     [
         {
-            "bairro": "Canada", 
+            "bairro": "Canad\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Canada"
         }, 
         {
             "renda": 0.14087221880115672, 
@@ -573,9 +625,10 @@
     ], 
     [
         {
-            "bairro": "Concordia", 
+            "bairro": "Conc\u00f3rdia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Concordia"
         }, 
         {
             "renda": 0.12952339383290773, 
@@ -584,9 +637,10 @@
     ], 
     [
         {
-            "bairro": "Tiradentes", 
+            "bairro": "Tiradentes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Tiradentes"
         }, 
         {
             "renda": 0.05549308056678793, 
@@ -595,9 +649,10 @@
     ], 
     [
         {
-            "bairro": "Vila do Pombal", 
+            "bairro": "Vila do Pombal ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila do Pombal"
         }, 
         {
             "renda": 0.07103151380527356, 
@@ -606,9 +661,10 @@
     ], 
     [
         {
-            "bairro": "Graca", 
+            "bairro": "Gra\u00e7a ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Graca"
         }, 
         {
             "renda": 0.2398803260314049, 
@@ -617,9 +673,10 @@
     ], 
     [
         {
-            "bairro": "Silveira", 
+            "bairro": "Silveira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Silveira"
         }, 
         {
             "renda": 0.3462278930051334, 
@@ -628,9 +685,10 @@
     ], 
     [
         {
-            "bairro": "Nova Floresta", 
+            "bairro": "Nova Floresta ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Floresta"
         }, 
         {
             "renda": 0.22866309238683954, 
@@ -639,9 +697,10 @@
     ], 
     [
         {
-            "bairro": "Renascenca", 
+            "bairro": "Renascen\u00e7a ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Renascenca"
         }, 
         {
             "renda": 0.18133933093225502, 
@@ -650,9 +709,10 @@
     ], 
     [
         {
-            "bairro": "Santa Cruz", 
+            "bairro": "Santa Cruz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Cruz"
         }, 
         {
             "renda": 0.1324063558609339, 
@@ -661,9 +721,10 @@
     ], 
     [
         {
-            "bairro": "Vila da Paz", 
+            "bairro": "Vila da Paz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila da Paz"
         }, 
         {
             "renda": 0.0778622155438081, 
@@ -672,9 +733,10 @@
     ], 
     [
         {
-            "bairro": "Vila Inestan", 
+            "bairro": "Vila Inestan ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Inestan"
         }, 
         {
             "renda": 0.05113110619651496, 
@@ -683,9 +745,10 @@
     ], 
     [
         {
-            "bairro": "Ipiranga", 
+            "bairro": "Ipiranga ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ipiranga"
         }, 
         {
             "renda": 0.20946187952258297, 
@@ -694,9 +757,10 @@
     ], 
     [
         {
-            "bairro": "Vila Ipiranga", 
+            "bairro": "Vila Ipiranga ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Ipiranga"
         }, 
         {
             "renda": 0.06299749281460404, 
@@ -705,9 +769,10 @@
     ], 
     [
         {
-            "bairro": "Palmares", 
+            "bairro": "Palmares ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Palmares"
         }, 
         {
             "renda": 0.2955466993976916, 
@@ -716,9 +781,10 @@
     ], 
     [
         {
-            "bairro": "Maria Virginia", 
+            "bairro": "Maria Virg\u00ednia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Maria Virginia"
         }, 
         {
             "renda": 0.12828995684823952, 
@@ -727,9 +793,10 @@
     ], 
     [
         {
-            "bairro": "Sao Sebastiao", 
+            "bairro": "S\u00e3o Sebasti\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Sebastiao"
         }, 
         {
             "renda": 0.05538233998101193, 
@@ -738,9 +805,10 @@
     ], 
     [
         {
-            "bairro": "Sao Paulo", 
+            "bairro": "S\u00e3o Paulo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Paulo"
         }, 
         {
             "renda": 0.11574800632194374, 
@@ -749,9 +817,10 @@
     ], 
     [
         {
-            "bairro": "Andiroba", 
+            "bairro": "Andiroba ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Andiroba"
         }, 
         {
             "renda": 0.06302390374928701, 
@@ -760,9 +829,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Paulo", 
+            "bairro": "Vila S\u00e3o Paulo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Paulo"
         }, 
         {
             "renda": 0.08069513580085598, 
@@ -771,9 +841,10 @@
     ], 
     [
         {
-            "bairro": "Cidade Nova", 
+            "bairro": "Cidade Nova ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cidade Nova"
         }, 
         {
             "renda": 0.34060607071550925, 
@@ -782,9 +853,10 @@
     ], 
     [
         {
-            "bairro": "Uniao", 
+            "bairro": "Uni\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Uniao"
         }, 
         {
             "renda": 0.194304783112941, 
@@ -793,9 +865,10 @@
     ], 
     [
         {
-            "bairro": "Vila de Sa", 
+            "bairro": "Vila de S\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila de Sa"
         }, 
         {
             "renda": 0.0610625443367774, 
@@ -804,9 +877,10 @@
     ], 
     [
         {
-            "bairro": "Dom Joaquim", 
+            "bairro": "Dom Joaquim ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Dom Joaquim"
         }, 
         {
             "renda": 0.13405634425402313, 
@@ -815,9 +889,10 @@
     ], 
     [
         {
-            "bairro": "Penha", 
+            "bairro": "Penha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Penha"
         }, 
         {
             "renda": 0.11120115540888992, 
@@ -826,9 +901,10 @@
     ], 
     [
         {
-            "bairro": "Fernao Dias", 
+            "bairro": "Fern\u00e3o Dias ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Fernao Dias"
         }, 
         {
             "renda": 0.227951387199593, 
@@ -837,9 +913,10 @@
     ], 
     [
         {
-            "bairro": "Centro", 
+            "bairro": "Centro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Centro"
         }, 
         {
             "renda": 0.1941551211497375, 
@@ -848,9 +925,10 @@
     ], 
     [
         {
-            "bairro": "Vila Suzana Primeira Secao", 
+            "bairro": "Vila Suzana Primeira Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Suzana Primeira Secao"
         }, 
         {
             "renda": 0.09007750450955125, 
@@ -859,9 +937,10 @@
     ], 
     [
         {
-            "bairro": "Vila Suzana Segunda Secao", 
+            "bairro": "Vila Suzana Segunda Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Suzana Segunda Secao"
         }, 
         {
             "renda": 0.05435741037541986, 
@@ -870,9 +949,10 @@
     ], 
     [
         {
-            "bairro": "Funcionarios", 
+            "bairro": "Funcion\u00e1rios ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Funcionarios"
         }, 
         {
             "renda": 0.5074935235291309, 
@@ -881,9 +961,10 @@
     ], 
     [
         {
-            "bairro": "Savassi", 
+            "bairro": "Savassi ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Savassi"
         }, 
         {
             "renda": 0.4928081171459325, 
@@ -892,9 +973,10 @@
     ], 
     [
         {
-            "bairro": "Boa Viagem", 
+            "bairro": "Boa Viagem ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Boa Viagem"
         }, 
         {
             "renda": 0.35994165500183717, 
@@ -903,9 +985,10 @@
     ], 
     [
         {
-            "bairro": "Lourdes", 
+            "bairro": "Lourdes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lourdes"
         }, 
         {
             "renda": 0.5609330380868846, 
@@ -914,9 +997,10 @@
     ], 
     [
         {
-            "bairro": "Santo Agostinho", 
+            "bairro": "Santo Agostinho ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santo Agostinho"
         }, 
         {
             "renda": 0.4809347802818742, 
@@ -925,9 +1009,10 @@
     ], 
     [
         {
-            "bairro": "Barro Preto", 
+            "bairro": "Barro Preto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Barro Preto"
         }, 
         {
             "renda": 0.21048912587683147, 
@@ -936,9 +1021,10 @@
     ], 
     [
         {
-            "bairro": "Sao Lucas", 
+            "bairro": "S\u00e3o Lucas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Lucas"
         }, 
         {
             "renda": 0.2900657354263767, 
@@ -947,9 +1033,10 @@
     ], 
     [
         {
-            "bairro": "Nossa Senhora da Aparecida", 
+            "bairro": "Nossa Senhora da Aparecida ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nossa Senhora da Aparecida"
         }, 
         {
             "renda": 0.06983514479910777, 
@@ -958,9 +1045,10 @@
     ], 
     [
         {
-            "bairro": "Nossa Senhora da Conceicao", 
+            "bairro": "Nossa Senhora da Concei\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nossa Senhora da Conceicao"
         }, 
         {
             "renda": 0.06682337154578567, 
@@ -969,9 +1057,10 @@
     ], 
     [
         {
-            "bairro": "Santana do Cafezal", 
+            "bairro": "Santana do Cafezal ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santana do Cafezal"
         }, 
         {
             "renda": 0.061732548048208755, 
@@ -980,9 +1069,10 @@
     ], 
     [
         {
-            "bairro": "Nossa Senhora de Fatima", 
+            "bairro": "Nossa Senhora de F\u00e1tima ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nossa Senhora de Fatima"
         }, 
         {
             "renda": 0.05483327054944474, 
@@ -991,9 +1081,10 @@
     ], 
     [
         {
-            "bairro": "Marcola", 
+            "bairro": "Mar\u00e7ola ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marcola"
         }, 
         {
             "renda": 0.06924298384253152, 
@@ -1002,9 +1093,10 @@
     ], 
     [
         {
-            "bairro": "Serra", 
+            "bairro": "Serra ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Serra"
         }, 
         {
             "renda": 0.42735626080473654, 
@@ -1013,9 +1105,10 @@
     ], 
     [
         {
-            "bairro": "Mangabeiras", 
+            "bairro": "Mangabeiras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mangabeiras"
         }, 
         {
             "renda": 0.9438179183827983, 
@@ -1024,9 +1117,10 @@
     ], 
     [
         {
-            "bairro": "Comiteco", 
+            "bairro": "Comiteco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Comiteco"
         }, 
         {
             "renda": 0.7319243794704561, 
@@ -1035,9 +1129,10 @@
     ], 
     [
         {
-            "bairro": "Belvedere", 
+            "bairro": "Belvedere ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Belvedere"
         }, 
         {
             "renda": 1.0, 
@@ -1046,9 +1141,10 @@
     ], 
     [
         {
-            "bairro": "Santa Lucia", 
+            "bairro": "Santa L\u00facia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Lucia"
         }, 
         {
             "renda": 0.5188557856395871, 
@@ -1057,9 +1153,10 @@
     ], 
     [
         {
-            "bairro": "Acaba Mundo", 
+            "bairro": "Acaba Mundo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Acaba Mundo"
         }, 
         {
             "renda": 0.050679340208516645, 
@@ -1068,9 +1165,10 @@
     ], 
     [
         {
-            "bairro": "Sao Bento", 
+            "bairro": "S\u00e3o Bento ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Bento"
         }, 
         {
             "renda": 0.6933528310900255, 
@@ -1079,9 +1177,10 @@
     ], 
     [
         {
-            "bairro": "Apia", 
+            "bairro": "\u00c1pia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Apia"
         }, 
         {
             "renda": 0.08784369545504882, 
@@ -1090,9 +1189,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Santa Maria", 
+            "bairro": "Conjunto Santa Maria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Santa Maria"
         }, 
         {
             "renda": 0.09093470151241985, 
@@ -1101,9 +1201,10 @@
     ], 
     [
         {
-            "bairro": "Vila Bandeirantes", 
+            "bairro": "Vila Bandeirantes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Bandeirantes"
         }, 
         {
             "renda": 0.06366517977737898, 
@@ -1112,9 +1213,10 @@
     ], 
     [
         {
-            "bairro": "Luxemburgo", 
+            "bairro": "Luxemburgo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Luxemburgo"
         }, 
         {
             "renda": 0.5470052085143293, 
@@ -1123,9 +1225,10 @@
     ], 
     [
         {
-            "bairro": "Coracao de Jesus", 
+            "bairro": "Cora\u00e7\u00e3o de Jesus ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Coracao de Jesus"
         }, 
         {
             "renda": 0.3785836047404384, 
@@ -1134,9 +1237,10 @@
     ], 
     [
         {
-            "bairro": "Vila Paris", 
+            "bairro": "Vila Paris ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Paris"
         }, 
         {
             "renda": 0.42799104993659054, 
@@ -1145,9 +1249,10 @@
     ], 
     [
         {
-            "bairro": "Monte Sao Jose", 
+            "bairro": "Monte S\u00e3o Jos\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Monte Sao Jose"
         }, 
         {
             "renda": 0.07077064790656273, 
@@ -1156,9 +1261,10 @@
     ], 
     [
         {
-            "bairro": "Cidade Jardim", 
+            "bairro": "Cidade Jardim ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cidade Jardim"
         }, 
         {
             "renda": 0.4084585420144685, 
@@ -1167,9 +1273,10 @@
     ], 
     [
         {
-            "bairro": "Santo Antonio", 
+            "bairro": "Santo Ant\u00f4nio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santo Antonio"
         }, 
         {
             "renda": 0.40850441363786527, 
@@ -1178,9 +1285,10 @@
     ], 
     [
         {
-            "bairro": "Vila Barragem Santa Lucia", 
+            "bairro": "Vila Barragem Santa L\u00facia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Barragem Santa Lucia"
         }, 
         {
             "renda": 0.08718805558528717, 
@@ -1189,9 +1297,10 @@
     ], 
     [
         {
-            "bairro": "Santa Rita de Cassia", 
+            "bairro": "Santa Rita de C\u00e1ssia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Rita de Cassia"
         }, 
         {
             "renda": 0.07872080259587053, 
@@ -1200,9 +1309,10 @@
     ], 
     [
         {
-            "bairro": "Estrela", 
+            "bairro": "Estrela ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Estrela"
         }, 
         {
             "renda": 0.07208053759689222, 
@@ -1211,9 +1321,10 @@
     ], 
     [
         {
-            "bairro": "Sao Pedro", 
+            "bairro": "S\u00e3o Pedro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Pedro"
         }, 
         {
             "renda": 0.40997462233521775, 
@@ -1222,9 +1333,10 @@
     ], 
     [
         {
-            "bairro": "Carmo", 
+            "bairro": "Carmo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Carmo"
         }, 
         {
             "renda": 0.42602783712515585, 
@@ -1233,9 +1345,10 @@
     ], 
     [
         {
-            "bairro": "Cruzeiro", 
+            "bairro": "Cruzeiro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cruzeiro"
         }, 
         {
             "renda": 0.42267920861719294, 
@@ -1244,9 +1357,10 @@
     ], 
     [
         {
-            "bairro": "Anchieta", 
+            "bairro": "Anchieta ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Anchieta"
         }, 
         {
             "renda": 0.4491842032956213, 
@@ -1255,9 +1369,10 @@
     ], 
     [
         {
-            "bairro": "Sion", 
+            "bairro": "Sion ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sion"
         }, 
         {
             "renda": 0.49090791989795185, 
@@ -1266,9 +1381,10 @@
     ], 
     [
         {
-            "bairro": "Santa Isabel", 
+            "bairro": "Santa Isabel ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Isabel"
         }, 
         {
             "renda": 0.11576237016361342, 
@@ -1277,9 +1393,10 @@
     ], 
     [
         {
-            "bairro": "Vila Fumec", 
+            "bairro": "Vila Fumec ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Fumec"
         }, 
         {
             "renda": 0.09861333325919737, 
@@ -1288,9 +1405,10 @@
     ], 
     [
         {
-            "bairro": "Pindura Saia", 
+            "bairro": "Pindura Saia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pindura Saia"
         }, 
         {
             "renda": 0.10436257672492362, 
@@ -1299,9 +1417,10 @@
     ], 
     [
         {
-            "bairro": "Mala e Cuia", 
+            "bairro": "Mala e Cuia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mala e Cuia"
         }, 
         {
             "renda": 0.16378625306216252, 
@@ -1310,9 +1429,10 @@
     ], 
     [
         {
-            "bairro": "Prado", 
+            "bairro": "Prado ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Prado"
         }, 
         {
             "renda": 0.28931279211304617, 
@@ -1321,9 +1441,10 @@
     ], 
     [
         {
-            "bairro": "Vila Calafate", 
+            "bairro": "Vila Calafate ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Calafate"
         }, 
         {
             "renda": 0.05487497202525997, 
@@ -1332,9 +1453,10 @@
     ], 
     [
         {
-            "bairro": "Calafate", 
+            "bairro": "Calafate ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Calafate"
         }, 
         {
             "renda": 0.24205760641869115, 
@@ -1343,9 +1465,10 @@
     ], 
     [
         {
-            "bairro": "Barroca", 
+            "bairro": "Barroca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Barroca"
         }, 
         {
             "renda": 0.2979774320879882, 
@@ -1354,9 +1477,10 @@
     ], 
     [
         {
-            "bairro": "Alto Barroca", 
+            "bairro": "Alto Barroca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alto Barroca"
         }, 
         {
             "renda": 0.2595472053755982, 
@@ -1365,9 +1489,10 @@
     ], 
     [
         {
-            "bairro": "Grajau", 
+            "bairro": "Graja\u00fa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Grajau"
         }, 
         {
             "renda": 0.3420290177402711, 
@@ -1376,9 +1501,10 @@
     ], 
     [
         {
-            "bairro": "Nova Granada", 
+            "bairro": "Nova Granada ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Granada"
         }, 
         {
             "renda": 0.20903096427249226, 
@@ -1387,9 +1513,10 @@
     ], 
     [
         {
-            "bairro": "Barao Homem de Melo 2a Secao", 
+            "bairro": "Bar\u00e3o Homem de Melo 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Barao Homem de Melo 2a Secao"
         }, 
         {
             "renda": 0.0549801524142606, 
@@ -1398,9 +1525,10 @@
     ], 
     [
         {
-            "bairro": "Jardim America", 
+            "bairro": "Jardim Am\u00e9rica ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim America"
         }, 
         {
             "renda": 0.18548770107640775, 
@@ -1409,9 +1537,10 @@
     ], 
     [
         {
-            "bairro": "Nova Suica", 
+            "bairro": "Nova Su\u00ed\u00e7a ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Suissa"
         }, 
         {
             "renda": 0.21572173439218012, 
@@ -1420,9 +1549,10 @@
     ], 
     [
         {
-            "bairro": "Salgado Filho", 
+            "bairro": "Salgado Filho ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Salgado Filho"
         }, 
         {
             "renda": 0.16749907445891177, 
@@ -1431,9 +1561,10 @@
     ], 
     [
         {
-            "bairro": "Gutierrez", 
+            "bairro": "Gutierrez ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Gutierrez"
         }, 
         {
             "renda": 0.4392231107725568, 
@@ -1442,9 +1573,10 @@
     ], 
     [
         {
-            "bairro": "Guarata", 
+            "bairro": "Guarat\u00e3 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Guarata"
         }, 
         {
             "renda": 0.09932133164859372, 
@@ -1453,9 +1585,10 @@
     ], 
     [
         {
-            "bairro": "Cinquentenario", 
+            "bairro": "Cinquenten\u00e1rio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cinquentenario"
         }, 
         {
             "renda": 0.14317831041373888, 
@@ -1464,9 +1597,10 @@
     ], 
     [
         {
-            "bairro": "Marajo", 
+            "bairro": "Maraj\u00f3 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marajo"
         }, 
         {
             "renda": 0.11030550037832505, 
@@ -1475,9 +1609,10 @@
     ], 
     [
         {
-            "bairro": "Estrela do Oriente", 
+            "bairro": "Estrela do Oriente ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Estrela do Oriente"
         }, 
         {
             "renda": 0.12435102078262548, 
@@ -1486,9 +1621,10 @@
     ], 
     [
         {
-            "bairro": "Betania", 
+            "bairro": "Bet\u00e2nia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Betania"
         }, 
         {
             "renda": 0.1384326824659658, 
@@ -1497,9 +1633,10 @@
     ], 
     [
         {
-            "bairro": "Vila Vista Alegre", 
+            "bairro": "Vila Vista Alegre ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Vista Alegre"
         }, 
         {
             "renda": 0.06622889384055301, 
@@ -1508,9 +1645,10 @@
     ], 
     [
         {
-            "bairro": "Nova Cintra", 
+            "bairro": "Nova Cintra ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Cintra"
         }, 
         {
             "renda": 0.09027303809615154, 
@@ -1519,9 +1657,10 @@
     ], 
     [
         {
-            "bairro": "Embaubas", 
+            "bairro": "Emba\u00fabas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Embaubas"
         }, 
         {
             "renda": 0.05685069527943927, 
@@ -1530,9 +1669,10 @@
     ], 
     [
         {
-            "bairro": "Nova Gameleira", 
+            "bairro": "Nova Gameleira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Gameleira"
         }, 
         {
             "renda": 0.14517766450421346, 
@@ -1541,9 +1681,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Gameleira 1a Secao", 
+            "bairro": "Vila Nova Gameleira 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Gameleira 1a Secao"
         }, 
         {
             "renda": 0.06415308704441716, 
@@ -1552,9 +1693,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Gameleira 2a Secao", 
+            "bairro": "Vila Nova Gameleira 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Gameleira 2a Secao"
         }, 
         {
             "renda": 0.09285157935072655, 
@@ -1563,9 +1705,10 @@
     ], 
     [
         {
-            "bairro": "Jardinopolis", 
+            "bairro": "Jardin\u00f3polis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardinopolis"
         }, 
         {
             "renda": 0.12673078500248122, 
@@ -1574,9 +1717,10 @@
     ], 
     [
         {
-            "bairro": "Cabana do Pai Tomas", 
+            "bairro": "Cabana do Pai Tom\u00e1s ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cabana do Pai Tomas"
         }, 
         {
             "renda": 0.06504410857766922, 
@@ -1585,9 +1729,10 @@
     ], 
     [
         {
-            "bairro": "Vista Alegre", 
+            "bairro": "Vista Alegre ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vista Alegre"
         }, 
         {
             "renda": 0.08489030426786803, 
@@ -1596,9 +1741,10 @@
     ], 
     [
         {
-            "bairro": "Bairro das Industrias II", 
+            "bairro": "Bairro das Ind\u00fastrias II ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bairro das Industrias II"
         }, 
         {
             "renda": 0.09315600012417773, 
@@ -1607,9 +1753,10 @@
     ], 
     [
         {
-            "bairro": "Custodinha", 
+            "bairro": "Custodinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Custodinha"
         }, 
         {
             "renda": 0.05185856527462507, 
@@ -1618,9 +1765,10 @@
     ], 
     [
         {
-            "bairro": "Madre Gertrudes", 
+            "bairro": "Madre Gertrudes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Madre Gertrudes"
         }, 
         {
             "renda": 0.10676087493403058, 
@@ -1629,9 +1777,10 @@
     ], 
     [
         {
-            "bairro": "Vila Madre Gertrudes 1a Secao", 
+            "bairro": "Vila Madre Gertrudes 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Madre Gertrudes 1a Secao"
         }, 
         {
             "renda": 0.06313696108371941, 
@@ -1640,9 +1789,10 @@
     ], 
     [
         {
-            "bairro": "Vila Madre Gertrudes 2a Secao", 
+            "bairro": "Vila Madre Gertrudes 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Madre Gertrudes 2a Secao"
         }, 
         {
             "renda": 0.051492982336644885, 
@@ -1651,9 +1801,10 @@
     ], 
     [
         {
-            "bairro": "Vila Madre Gertrudes 3a Secao", 
+            "bairro": "Vila Madre Gertrudes 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Madre Gertrudes 3a Secao"
         }, 
         {
             "renda": 0.06030496752613408, 
@@ -1662,9 +1813,10 @@
     ], 
     [
         {
-            "bairro": "Vila Madre Gertrudes 4a Secao", 
+            "bairro": "Vila Madre Gertrudes 4\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Madre Gertrudes 4a Secao"
         }, 
         {
             "renda": 0.05456128425718319, 
@@ -1673,9 +1825,10 @@
     ], 
     [
         {
-            "bairro": "Camargos", 
+            "bairro": "Camargos ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Camargos"
         }, 
         {
             "renda": 0.13920693986693522, 
@@ -1684,9 +1837,10 @@
     ], 
     [
         {
-            "bairro": "Virginia", 
+            "bairro": "Virg\u00ednia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Virginia"
         }, 
         {
             "renda": 0.060082096305388244, 
@@ -1695,9 +1849,10 @@
     ], 
     [
         {
-            "bairro": "Sport Club", 
+            "bairro": "Sport Club ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sport Club"
         }, 
         {
             "renda": 0.06512565813037456, 
@@ -1706,9 +1861,10 @@
     ], 
     [
         {
-            "bairro": "Vila da Amizade", 
+            "bairro": "Vila da Amizade ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila da Amizade"
         }, 
         {
             "renda": 0.05448853834937218, 
@@ -1717,9 +1873,10 @@
     ], 
     [
         {
-            "bairro": "Ambrosina", 
+            "bairro": "Ambrosina ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ambrosina"
         }, 
         {
             "renda": 0.05753181938442135, 
@@ -1728,9 +1885,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Gameleira 3a Secao", 
+            "bairro": "Vila Nova Gameleira 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Gameleira 3a Secao"
         }, 
         {
             "renda": 0.1122163546701251, 
@@ -1739,9 +1897,10 @@
     ], 
     [
         {
-            "bairro": "Gameleira", 
+            "bairro": "Gameleira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Gameleira"
         }, 
         {
             "renda": 0.15187445817040798, 
@@ -1750,9 +1909,10 @@
     ], 
     [
         {
-            "bairro": "Barao Homem de Melo 1a Secao", 
+            "bairro": "Bar\u00e3o Homem de Melo 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Barao Homem de Melo 1a Secao"
         }, 
         {
             "renda": 0.0589056513376675, 
@@ -1761,9 +1921,10 @@
     ], 
     [
         {
-            "bairro": "Barao Homem de Melo 3a Secao", 
+            "bairro": "Bar\u00e3o Homem de Melo 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Barao Homem de Melo 3a Secao"
         }, 
         {
             "renda": 0.06132433693495079, 
@@ -1772,9 +1933,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Paraiso", 
+            "bairro": "Vila Nova Para\u00edso ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Paraiso"
         }, 
         {
             "renda": 0.05363180469623487, 
@@ -1783,9 +1945,10 @@
     ], 
     [
         {
-            "bairro": "Ventosa", 
+            "bairro": "Ventosa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ventosa"
         }, 
         {
             "renda": 0.06646890900135621, 
@@ -1794,9 +1957,10 @@
     ], 
     [
         {
-            "bairro": "Vila Santa Rosa", 
+            "bairro": "Vila Santa Rosa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Santa Rosa"
         }, 
         {
             "renda": 0.04906363969554216, 
@@ -1805,9 +1969,10 @@
     ], 
     [
         {
-            "bairro": "Parque Sao Jose", 
+            "bairro": "Parque S\u00e3o Jos\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Parque Sao Jose"
         }, 
         {
             "renda": 0.10605194984517168, 
@@ -1816,9 +1981,10 @@
     ], 
     [
         {
-            "bairro": "Havai", 
+            "bairro": "Hava\u00ed ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Havai"
         }, 
         {
             "renda": 0.14725486134954316, 
@@ -1827,9 +1993,10 @@
     ], 
     [
         {
-            "bairro": "Vila Havai", 
+            "bairro": "Vila Hava\u00ed ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Havai"
         }, 
         {
             "renda": 0.05856091913759494, 
@@ -1838,9 +2005,10 @@
     ], 
     [
         {
-            "bairro": "Sao Jorge 1a Secao", 
+            "bairro": "S\u00e3o Jorge 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Jorge 1a Secao"
         }, 
         {
             "renda": 0.07200871838854377, 
@@ -1849,9 +2017,10 @@
     ], 
     [
         {
-            "bairro": "Sao Jorge 2a Secao", 
+            "bairro": "S\u00e3o Jorge 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Jorge 2a Secao"
         }, 
         {
             "renda": 0.06250680544917818, 
@@ -1860,9 +2029,10 @@
     ], 
     [
         {
-            "bairro": "Sao Jorge 3a Secao", 
+            "bairro": "S\u00e3o Jorge 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Jorge 3a Secao"
         }, 
         {
             "renda": 0.06131738668898158, 
@@ -1871,9 +2041,10 @@
     ], 
     [
         {
-            "bairro": "Vila Antena", 
+            "bairro": "Vila Antena ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Antena"
         }, 
         {
             "renda": 0.055326274663527006, 
@@ -1882,9 +2053,10 @@
     ], 
     [
         {
-            "bairro": "Santa Sofia", 
+            "bairro": "Santa Sofia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Sofia"
         }, 
         {
             "renda": 0.07124280128273738, 
@@ -1893,9 +2065,10 @@
     ], 
     [
         {
-            "bairro": "Leonina", 
+            "bairro": "Leonina ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Leonina"
         }, 
         {
             "renda": 0.06417301108286222, 
@@ -1904,9 +2077,10 @@
     ], 
     [
         {
-            "bairro": "Chacara Leonina", 
+            "bairro": "Ch\u00e1cara Leonina ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Chacara Leonina"
         }, 
         {
             "renda": 0.05262633577935656, 
@@ -1915,9 +2089,10 @@
     ], 
     [
         {
-            "bairro": "Alpes", 
+            "bairro": "Alpes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alpes"
         }, 
         {
             "renda": 0.07592495031732506, 
@@ -1926,9 +2101,10 @@
     ], 
     [
         {
-            "bairro": "Pantanal", 
+            "bairro": "Pantanal ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pantanal"
         }, 
         {
             "renda": 0.054060866547400444, 
@@ -1937,9 +2113,10 @@
     ], 
     [
         {
-            "bairro": "Estoril", 
+            "bairro": "Estoril ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Estoril"
         }, 
         {
             "renda": 0.26578667285701907, 
@@ -1948,9 +2125,10 @@
     ], 
     [
         {
-            "bairro": "Palmeiras", 
+            "bairro": "Palmeiras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Palmeiras"
         }, 
         {
             "renda": 0.1066024093259327, 
@@ -1959,9 +2137,10 @@
     ], 
     [
         {
-            "bairro": "Buritis", 
+            "bairro": "Buritis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Buritis"
         }, 
         {
             "renda": 0.3696252010358646, 
@@ -1970,9 +2149,10 @@
     ], 
     [
         {
-            "bairro": "Olhos D'Agua", 
+            "bairro": "Olhos D'\u00c1gua ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Olhos D Agua"
         }, 
         {
             "renda": 0.08272182752547612, 
@@ -1981,9 +2161,10 @@
     ], 
     [
         {
-            "bairro": "Vila Betania", 
+            "bairro": "Vila Bet\u00e2nia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Betania"
         }, 
         {
             "renda": 0.07892467647763386, 
@@ -1992,9 +2173,10 @@
     ], 
     [
         {
-            "bairro": "Pilar", 
+            "bairro": "Pilar ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pilar"
         }, 
         {
             "renda": 0.08705878101025995, 
@@ -2003,9 +2185,10 @@
     ], 
     [
         {
-            "bairro": "Ceu Azul", 
+            "bairro": "C\u00e9u Azul ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ceu Azul"
         }, 
         {
             "renda": 0.09533930405797061, 
@@ -2014,9 +2197,10 @@
     ], 
     [
         {
-            "bairro": "Alipio de Melo", 
+            "bairro": "Al\u00edpio de Melo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alipio de Melo"
         }, 
         {
             "renda": 0.19016846006180158, 
@@ -2025,9 +2209,10 @@
     ], 
     [
         {
-            "bairro": "Alto Caicaras", 
+            "bairro": "Alto Cai\u00e7aras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alto Caicaras"
         }, 
         {
             "renda": 0.196061805293956, 
@@ -2036,9 +2221,10 @@
     ], 
     [
         {
-            "bairro": "Alto dos Pinheiros", 
+            "bairro": "Alto dos Pinheiros ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alto dos Pinheiros"
         }, 
         {
             "renda": 0.1420333732277452, 
@@ -2047,9 +2233,10 @@
     ], 
     [
         {
-            "bairro": "Alvaro Camargos", 
+            "bairro": "\u00c1lvaro Camargos ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alvaro Camargos"
         }, 
         {
             "renda": 0.24123052714835574, 
@@ -2058,9 +2245,10 @@
     ], 
     [
         {
-            "bairro": "Aparecida", 
+            "bairro": "Aparecida ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Aparecida"
         }, 
         {
             "renda": 0.10761436513904894, 
@@ -2069,9 +2257,10 @@
     ], 
     [
         {
-            "bairro": "Aparecida 7a Secao", 
+            "bairro": "Aparecida 7\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Aparecida 7a Secao"
         }, 
         {
             "renda": 0.09002190254179761, 
@@ -2080,9 +2269,10 @@
     ], 
     [
         {
-            "bairro": "Bom Jesus", 
+            "bairro": "Bom Jesus ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bom Jesus"
         }, 
         {
             "renda": 0.10959333184134719, 
@@ -2091,9 +2281,10 @@
     ], 
     [
         {
-            "bairro": "Bonfim", 
+            "bairro": "Bonfim ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bonfim"
         }, 
         {
             "renda": 0.14578557935165326, 
@@ -2102,9 +2293,10 @@
     ], 
     [
         {
-            "bairro": "Caicara", 
+            "bairro": "Cai\u00e7ara ", 
             "cidade": "Adelaide", 
-            "estado": "Belo Horizonte"
+            "estado": "Belo Horizonte", 
+            "bairro_sem_acento": "Caicara"
         }, 
         {
             "renda": 0.22645152411943859, 
@@ -2113,9 +2305,10 @@
     ], 
     [
         {
-            "bairro": "Caicaras", 
+            "bairro": "Cai\u00e7aras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Caicaras"
         }, 
         {
             "renda": 0.1889011985467499, 
@@ -2124,9 +2317,10 @@
     ], 
     [
         {
-            "bairro": "California", 
+            "bairro": "Calif\u00f3rnia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "California"
         }, 
         {
             "renda": 0.10245681928016764, 
@@ -2135,9 +2329,10 @@
     ], 
     [
         {
-            "bairro": "Vila Rica", 
+            "bairro": "Vila Rica ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Rica"
         }, 
         {
             "renda": 0.2533953109933894, 
@@ -2146,9 +2341,10 @@
     ], 
     [
         {
-            "bairro": "Carlos Prates", 
+            "bairro": "Carlos Prates ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Carlos Prates"
         }, 
         {
             "renda": 0.17338639614455956, 
@@ -2157,9 +2353,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto California I", 
+            "bairro": "Conjunto Calif\u00f3rnia I ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto California I"
         }, 
         {
             "renda": 0.17653671096753448, 
@@ -2168,9 +2365,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto California II", 
+            "bairro": "Conjunto Calif\u00f3rnia II ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto California II"
         }, 
         {
             "renda": 0.1111024619161272, 
@@ -2179,9 +2377,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Celso Machado", 
+            "bairro": "Conjunto Celso Machado ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Celso Machado"
         }, 
         {
             "renda": 0.20898231255070782, 
@@ -2190,9 +2389,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Jardim Filadelfia", 
+            "bairro": "Conjunto Jardim Filad\u00e9lfia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Jardim Filadelfia"
         }, 
         {
             "renda": 0.06428560506756334, 
@@ -2201,9 +2401,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Novo Dom Bosco", 
+            "bairro": "Conjunto Novo Dom Bosco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Novo Dom Bosco"
         }, 
         {
             "renda": 0.07107414198055136, 
@@ -2212,9 +2413,10 @@
     ], 
     [
         {
-            "bairro": "Coqueiros", 
+            "bairro": "Coqueiros ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Coqueiros"
         }, 
         {
             "renda": 0.10544218159880678, 
@@ -2223,9 +2425,10 @@
     ], 
     [
         {
-            "bairro": "Coracao Eucaristico", 
+            "bairro": "Cora\u00e7\u00e3o Eucar\u00edstico ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Coracao Eucaristico"
         }, 
         {
             "renda": 0.27228283608956916, 
@@ -2234,9 +2437,10 @@
     ], 
     [
         {
-            "bairro": "Delta", 
+            "bairro": "Delta ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Delta"
         }, 
         {
             "renda": 0.06650412358093352, 
@@ -2245,9 +2449,10 @@
     ], 
     [
         {
-            "bairro": "Dom Bosco", 
+            "bairro": "Dom Bosco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Dom Bosco"
         }, 
         {
             "renda": 0.11169832967055371, 
@@ -2256,9 +2461,10 @@
     ], 
     [
         {
-            "bairro": "Dom Cabral", 
+            "bairro": "Dom Cabral ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Dom Cabral"
         }, 
         {
             "renda": 0.17452206633592762, 
@@ -2267,9 +2473,10 @@
     ], 
     [
         {
-            "bairro": "Engenho Nogueira", 
+            "bairro": "Engenho Nogueira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Engenho Nogueira"
         }, 
         {
             "renda": 0.21572683123922423, 
@@ -2278,9 +2485,10 @@
     ], 
     [
         {
-            "bairro": "Ermelinda", 
+            "bairro": "Ermelinda ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ermelinda"
         }, 
         {
             "renda": 0.11555432613426854, 
@@ -2289,9 +2497,10 @@
     ], 
     [
         {
-            "bairro": "Gloria", 
+            "bairro": "Gl\u00f3ria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Gloria"
         }, 
         {
             "renda": 0.11031754747133833, 
@@ -2300,9 +2509,10 @@
     ], 
     [
         {
-            "bairro": "Inconfidencia", 
+            "bairro": "Inconfid\u00eancia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Inconfidencia"
         }, 
         {
             "renda": 0.11037036934070431, 
@@ -2311,9 +2521,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Alvorada", 
+            "bairro": "Jardim Alvorada ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Alvorada"
         }, 
         {
             "renda": 0.08858644507429117, 
@@ -2322,9 +2533,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Montanhes", 
+            "bairro": "Jardim Montanh\u00eas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Montanhes"
         }, 
         {
             "renda": 0.14181976900162496, 
@@ -2333,9 +2545,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Sao Jose", 
+            "bairro": "Jardim S\u00e3o Jos\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Sao Jose"
         }, 
         {
             "renda": 0.08323846247585369, 
@@ -2344,9 +2557,10 @@
     ], 
     [
         {
-            "bairro": "Joao Pinheiro", 
+            "bairro": "Jo\u00e3o Pinheiro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Joao Pinheiro"
         }, 
         {
             "renda": 0.15021890958054337, 
@@ -2355,9 +2569,10 @@
     ], 
     [
         {
-            "bairro": "Vila Maloca", 
+            "bairro": "Vila Maloca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Maloca"
         }, 
         {
             "renda": 0.05261845883392479, 
@@ -2366,9 +2581,10 @@
     ], 
     [
         {
-            "bairro": "Lorena", 
+            "bairro": "Lorena ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lorena"
         }, 
         {
             "renda": 0.22183239064830504, 
@@ -2377,9 +2593,10 @@
     ], 
     [
         {
-            "bairro": "Maravilha", 
+            "bairro": "Maravilha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Maravilha"
         }, 
         {
             "renda": 0.09658386143618955, 
@@ -2388,9 +2605,10 @@
     ], 
     [
         {
-            "bairro": "Marmiteiros", 
+            "bairro": "Marmiteiros ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marmiteiros"
         }, 
         {
             "renda": 0.06283485705892464, 
@@ -2399,9 +2617,10 @@
     ], 
     [
         {
-            "bairro": "Minas Brasil", 
+            "bairro": "Minas Brasil ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Minas Brasil"
         }, 
         {
             "renda": 0.24102155641954837, 
@@ -2410,9 +2629,10 @@
     ], 
     [
         {
-            "bairro": "Monsenhor Messias", 
+            "bairro": "Monsenhor Messias ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Monsenhor Messias"
         }, 
         {
             "renda": 0.1729990357692092, 
@@ -2421,9 +2641,10 @@
     ], 
     [
         {
-            "bairro": "Nova Cachoeirinha", 
+            "bairro": "Nova Cachoeirinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Cachoeirinha"
         }, 
         {
             "renda": 0.13367871422302968, 
@@ -2432,9 +2653,10 @@
     ], 
     [
         {
-            "bairro": "Nova Esperanca", 
+            "bairro": "Nova Esperan\u00e7a ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Esperanca"
         }, 
         {
             "renda": 0.10937277736925775, 
@@ -2443,9 +2665,10 @@
     ], 
     [
         {
-            "bairro": "Novo Gloria", 
+            "bairro": "Novo Gl\u00f3ria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo Gloria"
         }, 
         {
             "renda": 0.10326073106393902, 
@@ -2454,9 +2677,10 @@
     ], 
     [
         {
-            "bairro": "Oeste", 
+            "bairro": "Oeste ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Oeste"
         }, 
         {
             "renda": 0.1114606312584069, 
@@ -2465,9 +2689,10 @@
     ], 
     [
         {
-            "bairro": "Padre Eustaquio", 
+            "bairro": "Padre Eust\u00e1quio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Padre Eustaquio"
         }, 
         {
             "renda": 0.20593486136807712, 
@@ -2476,9 +2701,10 @@
     ], 
     [
         {
-            "bairro": "Pedreira Padro Lopes", 
+            "bairro": "Pedreira Padro Lopes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pedreira Padro Lopes"
         }, 
         {
             "renda": 0.058712897849454895, 
@@ -2487,9 +2713,10 @@
     ], 
     [
         {
-            "bairro": "Pindorama", 
+            "bairro": "Pindorama ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pindorama"
         }, 
         {
             "renda": 0.08836264715408278, 
@@ -2498,9 +2725,10 @@
     ], 
     [
         {
-            "bairro": "Santa Maria", 
+            "bairro": "Santa Maria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Maria"
         }, 
         {
             "renda": 0.12078230115230443, 
@@ -2509,9 +2737,10 @@
     ], 
     [
         {
-            "bairro": "Santo Andre", 
+            "bairro": "Santo Andr\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santo Andre"
         }, 
         {
             "renda": 0.11658852273448624, 
@@ -2520,9 +2749,10 @@
     ], 
     [
         {
-            "bairro": "Vila Paqueta", 
+            "bairro": "Vila Paquet\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Paqueta"
         }, 
         {
             "renda": 0.057265393288935165, 
@@ -2531,9 +2761,10 @@
     ], 
     [
         {
-            "bairro": "Sao Francisco das Chagas", 
+            "bairro": "S\u00e3o Francisco das Chagas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Francisco das Chagas"
         }, 
         {
             "renda": 0.0680521750331411, 
@@ -2542,9 +2773,10 @@
     ], 
     [
         {
-            "bairro": "Sao Salvador", 
+            "bairro": "S\u00e3o Salvador ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Salvador"
         }, 
         {
             "renda": 0.10215471525537287, 
@@ -2553,9 +2785,10 @@
     ], 
     [
         {
-            "bairro": "Senhor dos Passos", 
+            "bairro": "Senhor dos Passos ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Senhor dos Passos"
         }, 
         {
             "renda": 0.06204855256494194, 
@@ -2564,9 +2797,10 @@
     ], 
     [
         {
-            "bairro": "Serrano", 
+            "bairro": "Serrano ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Serrano"
         }, 
         {
             "renda": 0.14694905052689813, 
@@ -2575,9 +2809,10 @@
     ], 
     [
         {
-            "bairro": "Vila Antena Montanhes", 
+            "bairro": "Vila Antena Montanh\u00eas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Antena Montanhes"
         }, 
         {
             "renda": 0.05928652481677993, 
@@ -2586,9 +2821,10 @@
     ], 
     [
         {
-            "bairro": "Vila California", 
+            "bairro": "Vila Calif\u00f3rnia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila California"
         }, 
         {
             "renda": 0.054761451341096286, 
@@ -2597,9 +2833,10 @@
     ], 
     [
         {
-            "bairro": "Vila Coqueiral", 
+            "bairro": "Vila Coqueiral ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Coqueiral"
         }, 
         {
             "renda": 0.05557138667137429, 
@@ -2608,9 +2845,10 @@
     ], 
     [
         {
-            "bairro": "Vila das Oliveiras", 
+            "bairro": "Vila das Oliveiras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila das Oliveiras"
         }, 
         {
             "renda": 0.09265465571493242, 
@@ -2619,9 +2857,10 @@
     ], 
     [
         {
-            "bairro": "Vila Jardim Alvorada", 
+            "bairro": "Vila Jardim Alvorada ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Jardim Alvorada"
         }, 
         {
             "renda": 0.06761569958627502, 
@@ -2630,9 +2869,10 @@
     ], 
     [
         {
-            "bairro": "Vila Jardim Montanhes", 
+            "bairro": "Vila Jardim Montanhes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Jardim Montanhes"
         }, 
         {
             "renda": 0.06848818713027587, 
@@ -2641,9 +2881,10 @@
     ], 
     [
         {
-            "bairro": "Vila Jardim Sao Jose", 
+            "bairro": "Vila Jardim S\u00e3o Jos\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Jardim Sao Jose"
         }, 
         {
             "renda": 0.0685322053547475, 
@@ -2652,9 +2893,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Cachoeirinha 1a Secao", 
+            "bairro": "Vila Nova Cachoeirinha 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Cachoeirinha 1a Secao"
         }, 
         {
             "renda": 0.05941811614046354, 
@@ -2663,9 +2905,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova Cachoeirinha 2a Secao", 
+            "bairro": "Vila Nova Cachoeirinha 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova Cachoeirinha 2a Secao"
         }, 
         {
             "renda": 0.0724600210268108, 
@@ -2674,9 +2917,10 @@
     ], 
     [
         {
-            "bairro": "Vila Oeste", 
+            "bairro": "Vila Oeste ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Oeste"
         }, 
         {
             "renda": 0.08622243474529896, 
@@ -2685,9 +2929,10 @@
     ], 
     [
         {
-            "bairro": "Vila Puc", 
+            "bairro": "Vila Puc ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Puc"
         }, 
         {
             "renda": 0.12961560042943254, 
@@ -2696,9 +2941,10 @@
     ], 
     [
         {
-            "bairro": "Vila Santo Antonio Barroquinha", 
+            "bairro": "Vila Santo Ant\u00f4nio Barroquinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Santo Antonio Barroquinha"
         }, 
         {
             "renda": 0.07855353334287833, 
@@ -2707,9 +2953,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sumare", 
+            "bairro": "Vila Sumar\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sumare"
         }, 
         {
             "renda": 0.05140077574012011, 
@@ -2718,9 +2965,10 @@
     ], 
     [
         {
-            "bairro": "Vila Trinta e Um de Marco", 
+            "bairro": "Vila Trinta e Um de Mar\u00e7o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Trinta e Um de Marco"
         }, 
         {
             "renda": 0.06516921300511491, 
@@ -2729,9 +2977,10 @@
     ], 
     [
         {
-            "bairro": "Aeroporto", 
+            "bairro": "Aeroporto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Aeroporto"
         }, 
         {
             "renda": 0.19797636638360633, 
@@ -2740,9 +2989,10 @@
     ], 
     [
         {
-            "bairro": "Bandeirantes", 
+            "bairro": "Bandeirantes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bandeirantes"
         }, 
         {
             "renda": 0.37769999680288685, 
@@ -2751,9 +3001,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Francisco", 
+            "bairro": "Vila S\u00e3o Francisco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Francisco"
         }, 
         {
             "renda": 0.07218803473454925, 
@@ -2762,9 +3013,10 @@
     ], 
     [
         {
-            "bairro": "Braunas", 
+            "bairro": "Bra\u00fanas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Braunas"
         }, 
         {
             "renda": 0.21231101702022567, 
@@ -2773,9 +3025,10 @@
     ], 
     [
         {
-            "bairro": "Castelo", 
+            "bairro": "Castelo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Castelo"
         }, 
         {
             "renda": 0.28402921512725665, 
@@ -2784,9 +3037,10 @@
     ], 
     [
         {
-            "bairro": "Confisco", 
+            "bairro": "Confisco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Confisco"
         }, 
         {
             "renda": 0.07415912449141575, 
@@ -2795,9 +3049,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Lagoa", 
+            "bairro": "Conjunto Lagoa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Lagoa"
         }, 
         {
             "renda": 0.1490202238257212, 
@@ -2806,9 +3061,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Sao Francisco de Assis", 
+            "bairro": "Conjunto S\u00e3o Francisco de Assis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Sao Francisco de Assis"
         }, 
         {
             "renda": 0.07431295660220082, 
@@ -2817,9 +3073,10 @@
     ], 
     [
         {
-            "bairro": "Copacabana", 
+            "bairro": "Copacabana ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Copacabana"
         }, 
         {
             "renda": 0.12600239922490858, 
@@ -2828,9 +3085,10 @@
     ], 
     [
         {
-            "bairro": "Dona Clara", 
+            "bairro": "Dona Clara ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Dona Clara"
         }, 
         {
             "renda": 0.249351657888506, 
@@ -2839,9 +3097,10 @@
     ], 
     [
         {
-            "bairro": "Garcas", 
+            "bairro": "Gar\u00e7as ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Garcas"
         }, 
         {
             "renda": 0.35496620558734904, 
@@ -2850,9 +3109,10 @@
     ], 
     [
         {
-            "bairro": "Indaia", 
+            "bairro": "Indai\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Indaia"
         }, 
         {
             "renda": 0.19479732387729198, 
@@ -2861,9 +3121,10 @@
     ], 
     [
         {
-            "bairro": "Itatiaia", 
+            "bairro": "Itatiaia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Itatiaia"
         }, 
         {
             "renda": 0.07914986444703612, 
@@ -2872,9 +3133,10 @@
     ], 
     [
         {
-            "bairro": "Jaragua", 
+            "bairro": "Jaragu\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jaragua"
         }, 
         {
             "renda": 0.270262631261187, 
@@ -2883,9 +3145,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Atlantico", 
+            "bairro": "Jardim Atl\u00e2ntico ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Atlantico"
         }, 
         {
             "renda": 0.29813543434635487, 
@@ -2894,9 +3157,10 @@
     ], 
     [
         {
-            "bairro": "Liberdade", 
+            "bairro": "Liberdade ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Liberdade"
         }, 
         {
             "renda": 0.2488387297359787, 
@@ -2905,9 +3169,10 @@
     ], 
     [
         {
-            "bairro": "Manacas", 
+            "bairro": "Manacas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Manacas"
         }, 
         {
             "renda": 0.13229793202381432, 
@@ -2916,9 +3181,10 @@
     ], 
     [
         {
-            "bairro": "Nova Pampulha", 
+            "bairro": "Nova Pampulha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova Pampulha"
         }, 
         {
             "renda": 0.15079577999598737, 
@@ -2927,9 +3193,10 @@
     ], 
     [
         {
-            "bairro": "Novo Ouro Preto", 
+            "bairro": "Novo Ouro Preto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo Ouro Preto"
         }, 
         {
             "renda": 0.05318189210716167, 
@@ -2938,9 +3205,10 @@
     ], 
     [
         {
-            "bairro": "Ouro Preto", 
+            "bairro": "Ouro Preto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ouro Preto"
         }, 
         {
             "renda": 0.2156902266104531, 
@@ -2949,9 +3217,10 @@
     ], 
     [
         {
-            "bairro": "Paqueta", 
+            "bairro": "Paquet\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Paqueta"
         }, 
         {
             "renda": 0.24574448023048867, 
@@ -2960,9 +3229,10 @@
     ], 
     [
         {
-            "bairro": "Santa Rosa", 
+            "bairro": "Santa Rosa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Rosa"
         }, 
         {
             "renda": 0.2242612699396765, 
@@ -2971,9 +3241,10 @@
     ], 
     [
         {
-            "bairro": "Santa Terezinha", 
+            "bairro": "Santa Terezinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Terezinha"
         }, 
         {
             "renda": 0.1098685615817277, 
@@ -2982,9 +3253,10 @@
     ], 
     [
         {
-            "bairro": "Sao Francisco", 
+            "bairro": "S\u00e3o Francisco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Francisco"
         }, 
         {
             "renda": 0.11847435614079714, 
@@ -2993,9 +3265,10 @@
     ], 
     [
         {
-            "bairro": "Sao Jose", 
+            "bairro": "S\u00e3o Jos\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Jose"
         }, 
         {
             "renda": 0.3772825186950033, 
@@ -3004,9 +3277,10 @@
     ], 
     [
         {
-            "bairro": "Sao Luiz", 
+            "bairro": "S\u00e3o Luiz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Luiz"
         }, 
         {
             "renda": 0.46019153951191666, 
@@ -3015,9 +3289,10 @@
     ], 
     [
         {
-            "bairro": "Suzana", 
+            "bairro": "Suzana ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Suzana"
         }, 
         {
             "renda": 0.07795534883979544, 
@@ -3026,9 +3301,10 @@
     ], 
     [
         {
-            "bairro": "Trevo", 
+            "bairro": "Trevo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Trevo"
         }, 
         {
             "renda": 0.1256979784514574, 
@@ -3037,9 +3313,10 @@
     ], 
     [
         {
-            "bairro": "Universitario", 
+            "bairro": "Universit\u00e1rio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Universitario"
         }, 
         {
             "renda": 0.11134664722451193, 
@@ -3048,9 +3325,10 @@
     ], 
     [
         {
-            "bairro": "Urca", 
+            "bairro": "Urca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Urca"
         }, 
         {
             "renda": 0.06897053420053868, 
@@ -3059,9 +3337,10 @@
     ], 
     [
         {
-            "bairro": "Vila Aeroporto", 
+            "bairro": "Vila Aeroporto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Aeroporto"
         }, 
         {
             "renda": 0.058328780922223496, 
@@ -3070,9 +3349,10 @@
     ], 
     [
         {
-            "bairro": "Vila Aeroporto Jaragua", 
+            "bairro": "Vila Aeroporto Jaragu\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Aeroporto Jaragua"
         }, 
         {
             "renda": 0.06823288142834041, 
@@ -3081,9 +3361,10 @@
     ], 
     [
         {
-            "bairro": "Vila Engenho Nogueira", 
+            "bairro": "Vila Engenho Nogueira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Engenho Nogueira"
         }, 
         {
             "renda": 0.07121963379617337, 
@@ -3092,9 +3373,10 @@
     ], 
     [
         {
-            "bairro": "Vila Real 1a Secao", 
+            "bairro": "Vila Real 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Real 1a Secao"
         }, 
         {
             "renda": 0.04321292263866551, 
@@ -3103,9 +3385,10 @@
     ], 
     [
         {
-            "bairro": "Vila Real 2a Secao", 
+            "bairro": "Vila Real 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Real 2a Secao"
         }, 
         {
             "renda": 0.034656243151111786, 
@@ -3114,9 +3397,10 @@
     ], 
     [
         {
-            "bairro": "Tunel de Ibirite", 
+            "bairro": "T\u00fanel de Ibirit\u00e9 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Tunel de Ibirite"
         }, 
         {
             "renda": 0.11823156088160626, 
@@ -3125,9 +3409,10 @@
     ], 
     [
         {
-            "bairro": "Marieta 1a Secao", 
+            "bairro": "Marieta 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marieta 1a Secao"
         }, 
         {
             "renda": 0.06708006729691497, 
@@ -3136,9 +3421,10 @@
     ], 
     [
         {
-            "bairro": "Marieta 2a Secao", 
+            "bairro": "Marieta 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marieta 2a Secao"
         }, 
         {
             "renda": 0.0664082101865585, 
@@ -3147,9 +3433,10 @@
     ], 
     [
         {
-            "bairro": "Marieta 3a Secao", 
+            "bairro": "Marieta 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marieta 3a Secao"
         }, 
         {
             "renda": 0.06109822226608599, 
@@ -3158,9 +3445,10 @@
     ], 
     [
         {
-            "bairro": "Vila Piratininga", 
+            "bairro": "Vila Piratininga ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Piratininga"
         }, 
         {
             "renda": 0.05541987130924563, 
@@ -3169,9 +3457,10 @@
     ], 
     [
         {
-            "bairro": "Jatoba", 
+            "bairro": "Jatob\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jatoba"
         }, 
         {
             "renda": 0.07697721755706267, 
@@ -3180,9 +3469,10 @@
     ], 
     [
         {
-            "bairro": "Marilandia", 
+            "bairro": "Marilandia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Marilandia"
         }, 
         {
             "renda": 0.0711505946862126, 
@@ -3191,9 +3481,10 @@
     ], 
     [
         {
-            "bairro": "Vila Batik", 
+            "bairro": "Vila Batik ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Batik"
         }, 
         {
             "renda": 0.03559869650453596, 
@@ -3202,9 +3493,10 @@
     ], 
     [
         {
-            "bairro": "Vila Olhos D'Agua", 
+            "bairro": "Vila Olhos D'\u00c1gua ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Olhos D'Agua"
         }, 
         {
             "renda": 0.06238355442065761, 
@@ -3213,9 +3505,10 @@
     ], 
     [
         {
-            "bairro": "Vila Pilar", 
+            "bairro": "Vila Pilar ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Pilar"
         }, 
         {
             "renda": 0.0634339682614701, 
@@ -3224,9 +3517,10 @@
     ], 
     [
         {
-            "bairro": "Sao Joao", 
+            "bairro": "S\u00e3o Jo\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Joao"
         }, 
         {
             "renda": 0.062011947936170785, 
@@ -3235,9 +3529,10 @@
     ], 
     [
         {
-            "bairro": "Serra do Curral", 
+            "bairro": "Serra do Curral ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Serra do Curral"
         }, 
         {
             "renda": 0.08047458132876655, 
@@ -3246,9 +3541,10 @@
     ], 
     [
         {
-            "bairro": "Bonsucesso", 
+            "bairro": "Bonsucesso ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bonsucesso"
         }, 
         {
             "renda": 0.07916978848548117, 
@@ -3257,9 +3553,10 @@
     ], 
     [
         {
-            "bairro": "Bernadete", 
+            "bairro": "Bernadete ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bernadete"
         }, 
         {
             "renda": 0.06007421935995648, 
@@ -3268,9 +3565,10 @@
     ], 
     [
         {
-            "bairro": "Alto das Antenas", 
+            "bairro": "Alto das Antenas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alto das Antenas"
         }, 
         {
             "renda": 0.03782972546065072, 
@@ -3279,9 +3577,10 @@
     ], 
     [
         {
-            "bairro": "Esperanca", 
+            "bairro": "Esperan\u00e7a ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Esperanca"
         }, 
         {
             "renda": 0.04881435754011334, 
@@ -3290,9 +3589,10 @@
     ], 
     [
         {
-            "bairro": "Vila Cemig", 
+            "bairro": "Vila Cemig ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Cemig"
         }, 
         {
             "renda": 0.05336676864994252, 
@@ -3301,9 +3601,10 @@
     ], 
     [
         {
-            "bairro": "Flavio Marques Lisboa", 
+            "bairro": "Flavio Marques Lisboa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Flavio Marques Lisboa"
         }, 
         {
             "renda": 0.08422493405374949, 
@@ -3312,9 +3613,10 @@
     ], 
     [
         {
-            "bairro": "Flavio de Oliveira", 
+            "bairro": "Flavio de Oliveira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Flavio de Oliveira"
         }, 
         {
             "renda": 0.09770424108642538, 
@@ -3323,9 +3625,10 @@
     ], 
     [
         {
-            "bairro": "Cardoso", 
+            "bairro": "Cardoso ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cardoso"
         }, 
         {
             "renda": 0.10522023707752351, 
@@ -3334,9 +3637,10 @@
     ], 
     [
         {
-            "bairro": "Araguaia", 
+            "bairro": "Araguaia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Araguaia"
         }, 
         {
             "renda": 0.09322133243628826, 
@@ -3345,9 +3649,10 @@
     ], 
     [
         {
-            "bairro": "Milionario", 
+            "bairro": "Milionario ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Milionario"
         }, 
         {
             "renda": 0.10677755552435667, 
@@ -3356,9 +3661,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova dos Milionarios", 
+            "bairro": "Vila Nova dos Milionarios ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova dos Milionarios"
         }, 
         {
             "renda": 0.06255175037311236, 
@@ -3367,9 +3673,10 @@
     ], 
     [
         {
-            "bairro": "Vila Copasa", 
+            "bairro": "Vila Copasa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Copasa"
         }, 
         {
             "renda": 0.0651154644362864, 
@@ -3378,9 +3685,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Bonsucesso", 
+            "bairro": "Conjunto Bonsucesso ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Bonsucesso"
         }, 
         {
             "renda": 0.056353984367506764, 
@@ -3389,9 +3697,10 @@
     ], 
     [
         {
-            "bairro": "Novo das Industrias", 
+            "bairro": "Novo das Industrias ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo das Industrias"
         }, 
         {
             "renda": 0.08807305357203257, 
@@ -3400,9 +3709,10 @@
     ], 
     [
         {
-            "bairro": "Alta Tensao 1a Secao", 
+            "bairro": "Alta Tens\u00e3o 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alta Tensao 1a Secao"
         }, 
         {
             "renda": 0.055605674551489036, 
@@ -3411,9 +3721,10 @@
     ], 
     [
         {
-            "bairro": "Alta Tensao 2a Secao", 
+            "bairro": "Alta Tens\u00e3o 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Alta Tensao 2a Secao"
         }, 
         {
             "renda": 0.06141469013255046, 
@@ -3422,9 +3733,10 @@
     ], 
     [
         {
-            "bairro": "das Industrias I", 
+            "bairro": "das Ind\u00fastrias I ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "das Industrias I"
         }, 
         {
             "renda": 0.0917506603892045, 
@@ -3433,9 +3745,10 @@
     ], 
     [
         {
-            "bairro": "Pongelupe", 
+            "bairro": "Pongelupe ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pongelupe"
         }, 
         {
             "renda": 0.11640457289116793, 
@@ -3444,9 +3757,10 @@
     ], 
     [
         {
-            "bairro": "Solar do Barreiro", 
+            "bairro": "Solar do Barreiro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Solar do Barreiro"
         }, 
         {
             "renda": 0.07238449502061212, 
@@ -3455,9 +3769,10 @@
     ], 
     [
         {
-            "bairro": "Corumbiara", 
+            "bairro": "Corumbiara ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Corumbiara"
         }, 
         {
             "renda": 0.055186806394411626, 
@@ -3466,9 +3781,10 @@
     ], 
     [
         {
-            "bairro": "Vila Ecologica", 
+            "bairro": "Vila Ecol\u00f3gica ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Ecologica"
         }, 
         {
             "renda": 0.044507521787862735, 
@@ -3477,9 +3793,10 @@
     ], 
     [
         {
-            "bairro": "Distrito Industrial do Jatoba", 
+            "bairro": "Distrito Industrial do Jatoba ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Distrito Industrial do Jatoba"
         }, 
         {
             "renda": 0.03395704840660978, 
@@ -3488,9 +3805,10 @@
     ], 
     [
         {
-            "bairro": "Aguas Claras", 
+            "bairro": "Aguas Claras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Aguas Claras"
         }, 
         {
             "renda": 0.051133422945171356, 
@@ -3499,9 +3817,10 @@
     ], 
     [
         {
-            "bairro": "Vitoria da Conquista", 
+            "bairro": "Vitoria da Conquista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vitoria da Conquista"
         }, 
         {
             "renda": 0.04905298265172271, 
@@ -3510,9 +3829,10 @@
     ], 
     [
         {
-            "bairro": "Vila Independencia 1a Secao", 
+            "bairro": "Vila Independencia 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Independencia 1a Secao"
         }, 
         {
             "renda": 0.058695290559666234, 
@@ -3521,9 +3841,10 @@
     ], 
     [
         {
-            "bairro": "Vila Independencia 2a Secao", 
+            "bairro": "Vila Independencia 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Independencia 2a Secao"
         }, 
         {
             "renda": 0.07432963719252692, 
@@ -3532,9 +3853,10 @@
     ], 
     [
         {
-            "bairro": "Vila independencia 3a Secao", 
+            "bairro": "Vila independencia 3\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila independencia 3a Secao"
         }, 
         {
             "renda": 0.05668296267671579, 
@@ -3543,9 +3865,10 @@
     ], 
     [
         {
-            "bairro": "Independencia", 
+            "bairro": "Independ\u00eancia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Independencia"
         }, 
         {
             "renda": 0.06652451096910986, 
@@ -3554,9 +3877,10 @@
     ], 
     [
         {
-            "bairro": "Mineirao", 
+            "bairro": "Mineir\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mineirao"
         }, 
         {
             "renda": 0.07160004392555452, 
@@ -3565,9 +3889,10 @@
     ], 
     [
         {
-            "bairro": "Vila Mangueiras", 
+            "bairro": "Vila Mangueiras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Mangueiras"
         }, 
         {
             "renda": 0.0563178430884669, 
@@ -3576,9 +3901,10 @@
     ], 
     [
         {
-            "bairro": "Mangueiras", 
+            "bairro": "Mangueiras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mangueiras"
         }, 
         {
             "renda": 0.08552648344891592, 
@@ -3587,9 +3913,10 @@
     ], 
     [
         {
-            "bairro": "Petropolis", 
+            "bairro": "Petropolis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Petropolis"
         }, 
         {
             "renda": 0.08376853456843837, 
@@ -3598,9 +3925,10 @@
     ], 
     [
         {
-            "bairro": "Vila Petropolis", 
+            "bairro": "Vila Petropolis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Petropolis"
         }, 
         {
             "renda": 0.046455444058165214, 
@@ -3609,9 +3937,10 @@
     ], 
     [
         {
-            "bairro": "Santa Rita", 
+            "bairro": "Santa Rita ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Rita"
         }, 
         {
             "renda": 0.06507005616262092, 
@@ -3620,9 +3949,10 @@
     ], 
     [
         {
-            "bairro": "Ernesto Nascimento", 
+            "bairro": "Ernesto Nascimento ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ernesto Nascimento"
         }, 
         {
             "renda": 0.11003490413525734, 
@@ -3631,9 +3961,10 @@
     ], 
     [
         {
-            "bairro": "Vale do Jatoba", 
+            "bairro": "Vale do Jatoba ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vale do Jatoba"
         }, 
         {
             "renda": 0.08527951804214351, 
@@ -3642,9 +3973,10 @@
     ], 
     [
         {
-            "bairro": "Jardim do Vale", 
+            "bairro": "Jardim do Vale ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim do Vale"
         }, 
         {
             "renda": 0.06226632693864369, 
@@ -3653,9 +3985,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Jatoba", 
+            "bairro": "Conjunto Jatoba ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Jatoba"
         }, 
         {
             "renda": 0.06096014404616446, 
@@ -3664,9 +3997,10 @@
     ], 
     [
         {
-            "bairro": "Novo Santa Cecilia", 
+            "bairro": "Novo Santa Cecilia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo Santa Cecilia"
         }, 
         {
             "renda": 0.09063815768440045, 
@@ -3675,9 +4009,10 @@
     ], 
     [
         {
-            "bairro": "Vila Pinho", 
+            "bairro": "Vila Pinho ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Pinho"
         }, 
         {
             "renda": 0.061834021639359145, 
@@ -3686,9 +4021,10 @@
     ], 
     [
         {
-            "bairro": "Brasil Industrial", 
+            "bairro": "Brasil Industrial ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Brasil Industrial"
         }, 
         {
             "renda": 0.09679097876607186, 
@@ -3697,9 +4033,10 @@
     ], 
     [
         {
-            "bairro": "Diamante", 
+            "bairro": "Diamante ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Diamante"
         }, 
         {
             "renda": 0.11924583344337888, 
@@ -3708,9 +4045,10 @@
     ], 
     [
         {
-            "bairro": "Olaria", 
+            "bairro": "Olaria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Olaria"
         }, 
         {
             "renda": 0.07006728301447922, 
@@ -3719,9 +4057,10 @@
     ], 
     [
         {
-            "bairro": "CDI Jatoba", 
+            "bairro": "CDI Jatoba ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "CDI Jatoba"
         }, 
         {
             "renda": 0.08765696551334284, 
@@ -3730,9 +4069,10 @@
     ], 
     [
         {
-            "bairro": "Santa Cecilia", 
+            "bairro": "Santa Cecilia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Cecilia"
         }, 
         {
             "renda": 0.06957844904797847, 
@@ -3741,9 +4081,10 @@
     ], 
     [
         {
-            "bairro": "Vila Formosa", 
+            "bairro": "Vila Formosa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Formosa"
         }, 
         {
             "renda": 0.05487080187767845, 
@@ -3752,9 +4093,10 @@
     ], 
     [
         {
-            "bairro": "Castanheira", 
+            "bairro": "Castanheira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Castanheira"
         }, 
         {
             "renda": 0.0657252326826513, 
@@ -3763,9 +4105,10 @@
     ], 
     [
         {
-            "bairro": "Miramar", 
+            "bairro": "Miramar ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Miramar"
         }, 
         {
             "renda": 0.10876439917208669, 
@@ -3774,9 +4117,10 @@
     ], 
     [
         {
-            "bairro": "Santa Helena", 
+            "bairro": "Santa Helena ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Helena"
         }, 
         {
             "renda": 0.12381955864084696, 
@@ -3785,9 +4129,10 @@
     ], 
     [
         {
-            "bairro": "Teixeira Dias", 
+            "bairro": "Teixeira Dias ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Teixeira Dias"
         }, 
         {
             "renda": 0.13399981558680693, 
@@ -3796,9 +4141,10 @@
     ], 
     [
         {
-            "bairro": "Barreiro", 
+            "bairro": "Barreiro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Barreiro"
         }, 
         {
             "renda": 0.1900924707058716, 
@@ -3807,9 +4153,10 @@
     ], 
     [
         {
-            "bairro": "Santa Margarida", 
+            "bairro": "Santa Margarida ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Margarida"
         }, 
         {
             "renda": 0.08817128371506401, 
@@ -3818,9 +4165,10 @@
     ], 
     [
         {
-            "bairro": "Ademar Maldonado", 
+            "bairro": "Ademar Maldonado ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ademar Maldonado"
         }, 
         {
             "renda": 0.15578420320295136, 
@@ -3829,9 +4177,10 @@
     ], 
     [
         {
-            "bairro": "Atila de Paiva", 
+            "bairro": "Atila de Paiva ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Atila de Paiva"
         }, 
         {
             "renda": 0.13250597605315917, 
@@ -3840,9 +4189,10 @@
     ], 
     [
         {
-            "bairro": "Vila Atila de Paiva", 
+            "bairro": "Vila Atila de Paiva ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Atila de Paiva"
         }, 
         {
             "renda": 0.048549321493821, 
@@ -3851,9 +4201,10 @@
     ], 
     [
         {
-            "bairro": "Joao Paulo II", 
+            "bairro": "Jo\u00e3o Paulo II ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Joao Paulo II"
         }, 
         {
             "renda": 0.10206436205777322, 
@@ -3862,9 +4213,10 @@
     ], 
     [
         {
-            "bairro": "Vila Tirol", 
+            "bairro": "Vila Tirol ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Tirol"
         }, 
         {
             "renda": 0.06236085028382487, 
@@ -3873,9 +4225,10 @@
     ], 
     [
         {
-            "bairro": "Tirol", 
+            "bairro": "Tirol ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Tirol"
         }, 
         {
             "renda": 0.11962763362195389, 
@@ -3884,9 +4237,10 @@
     ], 
     [
         {
-            "bairro": "Lindeia", 
+            "bairro": "Lind\u00e9ia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lindeia"
         }, 
         {
             "renda": 0.0780313381957254, 
@@ -3895,9 +4249,10 @@
     ], 
     [
         {
-            "bairro": "Serra Verde", 
+            "bairro": "Serra Verde ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Serra Verde"
         }, 
         {
             "renda": 0.08286268584378534, 
@@ -3906,9 +4261,10 @@
     ], 
     [
         {
-            "bairro": "Varzea da Palma", 
+            "bairro": "Varzea da Palma ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Varzea da Palma"
         }, 
         {
             "renda": 0.06199851079396366, 
@@ -3917,9 +4273,10 @@
     ], 
     [
         {
-            "bairro": "Venda Nova", 
+            "bairro": "Venda Nova ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Venda Nova"
         }, 
         {
             "renda": 0.09000892874932176, 
@@ -3928,9 +4285,10 @@
     ], 
     [
         {
-            "bairro": "Vila Canto do Sabia", 
+            "bairro": "Vila Canto do Sabi\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Canto do Sabia"
         }, 
         {
             "renda": 0.07201242518639402, 
@@ -3939,9 +4297,10 @@
     ], 
     [
         {
-            "bairro": "Vila Copacabana", 
+            "bairro": "Vila Copacabana ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Copacabana"
         }, 
         {
             "renda": 0.05320413289426312, 
@@ -3950,9 +4309,10 @@
     ], 
     [
         {
-            "bairro": "Vila dos Anjos", 
+            "bairro": "Vila dos Anjos ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila dos Anjos"
         }, 
         {
             "renda": 0.05299886896330594, 
@@ -3961,9 +4321,10 @@
     ], 
     [
         {
-            "bairro": "Vila Satelite", 
+            "bairro": "Vila Sat\u00e9lite ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Satelite"
         }, 
         {
             "renda": 0.07802531464921877, 
@@ -3972,9 +4333,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Joao Batista", 
+            "bairro": "Vila S\u00e3o Jo\u00e3o Batista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Joao Batista"
         }, 
         {
             "renda": 0.0549518880806525, 
@@ -3983,9 +4345,10 @@
     ], 
     [
         {
-            "bairro": "Vila Piratininga Venda Nova", 
+            "bairro": "Vila Piratininga Venda Nova ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Piratininga Venda Nova"
         }, 
         {
             "renda": 0.055929556013653986, 
@@ -3994,9 +4357,10 @@
     ], 
     [
         {
-            "bairro": "Sao Marcos", 
+            "bairro": "S\u00e3o Marcos ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Marcos"
         }, 
         {
             "renda": 0.09210141613578371, 
@@ -4005,9 +4369,10 @@
     ], 
     [
         {
-            "bairro": "Ipe", 
+            "bairro": "Ipe ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ipe"
         }, 
         {
             "renda": 0.0903587577964384, 
@@ -4016,9 +4381,10 @@
     ], 
     [
         {
-            "bairro": "Goiania", 
+            "bairro": "Goiania ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Goiania"
         }, 
         {
             "renda": 0.08332232877721542, 
@@ -4027,9 +4393,10 @@
     ], 
     [
         {
-            "bairro": "Morro dos Macacos", 
+            "bairro": "Morro dos Macacos ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Morro dos Macacos"
         }, 
         {
             "renda": 0.053641998390323034, 
@@ -4038,9 +4405,10 @@
     ], 
     [
         {
-            "bairro": "Sao Benedito", 
+            "bairro": "S\u00e3o Benedito ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Benedito"
         }, 
         {
             "renda": 0.05351874736180246, 
@@ -4049,9 +4417,10 @@
     ], 
     [
         {
-            "bairro": "Vila da Luz", 
+            "bairro": "Vila da Luz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila da Luz"
         }, 
         {
             "renda": 0.04054263813729701, 
@@ -4060,9 +4429,10 @@
     ], 
     [
         {
-            "bairro": "Maria Goretti", 
+            "bairro": "Maria Goretti ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Maria Goretti"
         }, 
         {
             "renda": 0.08411280341877965, 
@@ -4071,9 +4441,10 @@
     ], 
     [
         {
-            "bairro": "Piraja", 
+            "bairro": "Piraj\u00e1 ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Piraja"
         }, 
         {
             "renda": 0.11850632727225549, 
@@ -4082,9 +4453,10 @@
     ], 
     [
         {
-            "bairro": "Eymard", 
+            "bairro": "Eymard ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Eymard"
         }, 
         {
             "renda": 0.10063956163408623, 
@@ -4093,9 +4465,10 @@
     ], 
     [
         {
-            "bairro": "Vitoria", 
+            "bairro": "Vitoria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vitoria"
         }, 
         {
             "renda": 0.08849006833018487, 
@@ -4104,9 +4477,10 @@
     ], 
     [
         {
-            "bairro": "Pousada Santo Antonio", 
+            "bairro": "Pousada Santo Antonio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Pousada Santo Antonio"
         }, 
         {
             "renda": 0.09402709761898473, 
@@ -4115,9 +4489,10 @@
     ], 
     [
         {
-            "bairro": "Bela Vitoria", 
+            "bairro": "Bela Vitoria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bela Vitoria"
         }, 
         {
             "renda": 0.08975084294899863, 
@@ -4126,9 +4501,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Vitoria", 
+            "bairro": "Jardim Vitoria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Vitoria"
         }, 
         {
             "renda": 0.07567705821109008, 
@@ -4137,9 +4513,10 @@
     ], 
     [
         {
-            "bairro": "Vila Maria", 
+            "bairro": "Vila Maria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Maria"
         }, 
         {
             "renda": 0.05776256755059895, 
@@ -4148,9 +4525,10 @@
     ], 
     [
         {
-            "bairro": "Mirtes", 
+            "bairro": "Mirtes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mirtes"
         }, 
         {
             "renda": 0.05366840932500601, 
@@ -4159,9 +4537,10 @@
     ], 
     [
         {
-            "bairro": "Sao Gabriel", 
+            "bairro": "S\u00e3o Gabriel ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Gabriel"
         }, 
         {
             "renda": 0.09935700957790229, 
@@ -4170,9 +4549,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Gabriel Jacui", 
+            "bairro": "Vila S\u00e3o Gabriel Jacui ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Gabriel Jacui"
         }, 
         {
             "renda": 0.05775515395489846, 
@@ -4181,9 +4561,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Dimas", 
+            "bairro": "Vila S\u00e3o Dimas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Dimas"
         }, 
         {
             "renda": 0.04157173789047061, 
@@ -4192,9 +4573,10 @@
     ], 
     [
         {
-            "bairro": "Vila Esplanada", 
+            "bairro": "Vila Esplanada ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Esplanada"
         }, 
         {
             "renda": 0.11753885303334216, 
@@ -4203,9 +4585,10 @@
     ], 
     [
         {
-            "bairro": "Vila Sao Gabriel", 
+            "bairro": "Vila S\u00e3o Gabriel ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Sao Gabriel"
         }, 
         {
             "renda": 0.04328752194540165, 
@@ -4214,9 +4597,10 @@
     ], 
     [
         {
-            "bairro": "Dom Silverio", 
+            "bairro": "Dom Silverio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Dom Silverio"
         }, 
         {
             "renda": 0.07446771541244844, 
@@ -4225,9 +4609,10 @@
     ], 
     [
         {
-            "bairro": "Boa Esperanca", 
+            "bairro": "Boa Esperan\u00e7a ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Boa Esperanca"
         }, 
         {
             "renda": 0.061551841653009434, 
@@ -4236,9 +4621,10 @@
     ], 
     [
         {
-            "bairro": "Tres Marias", 
+            "bairro": "Tres Marias ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Tres Marias"
         }, 
         {
             "renda": 0.04456775725292918, 
@@ -4247,9 +4633,10 @@
     ], 
     [
         {
-            "bairro": "Ouro Minas", 
+            "bairro": "Ouro Minas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ouro Minas"
         }, 
         {
             "renda": 0.08732103695816461, 
@@ -4258,9 +4645,10 @@
     ], 
     [
         {
-            "bairro": "Vila Ouro Minas", 
+            "bairro": "Vila Ouro Minas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Ouro Minas"
         }, 
         {
             "renda": 0.06193920202835978, 
@@ -4269,9 +4657,10 @@
     ], 
     [
         {
-            "bairro": "Belmonte", 
+            "bairro": "Belmonte ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Belmonte"
         }, 
         {
             "renda": 0.07845391315065307, 
@@ -4280,9 +4669,10 @@
     ], 
     [
         {
-            "bairro": "Nazare", 
+            "bairro": "Nazare ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nazare"
         }, 
         {
             "renda": 0.0714026569400291, 
@@ -4291,9 +4681,10 @@
     ], 
     [
         {
-            "bairro": "Vista do Sol", 
+            "bairro": "Vista do Sol ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vista do Sol"
         }, 
         {
             "renda": 0.07006218616743512, 
@@ -4302,9 +4693,10 @@
     ], 
     [
         {
-            "bairro": "Grotinha", 
+            "bairro": "Grotinha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Grotinha"
         }, 
         {
             "renda": 0.02665836343948212, 
@@ -4313,9 +4705,10 @@
     ], 
     [
         {
-            "bairro": "Acaiaca", 
+            "bairro": "Acaiaca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Acaiaca"
         }, 
         {
             "renda": 0.09381395674259578, 
@@ -4324,9 +4717,10 @@
     ], 
     [
         {
-            "bairro": "Paulo VI", 
+            "bairro": "Paulo VI ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Paulo VI"
         }, 
         {
             "renda": 0.07293449115164186, 
@@ -4335,9 +4729,10 @@
     ], 
     [
         {
-            "bairro": "Beira Linha", 
+            "bairro": "Beira Linha ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Beira Linha"
         }, 
         {
             "renda": 0.058513657465004344, 
@@ -4346,9 +4741,10 @@
     ], 
     [
         {
-            "bairro": "Ribeiro de Abreu", 
+            "bairro": "Ribeiro de Abreu ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Ribeiro de Abreu"
         }, 
         {
             "renda": 0.08069606250031855, 
@@ -4357,9 +4753,10 @@
     ], 
     [
         {
-            "bairro": "Antonio Ribeiro de Abreu 1a Secao", 
+            "bairro": "Antonio Ribeiro de Abreu 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Antonio Ribeiro de Abreu 1a Secao"
         }, 
         {
             "renda": 0.05366655592608089, 
@@ -4368,9 +4765,10 @@
     ], 
     [
         {
-            "bairro": "Capitao Eduardo", 
+            "bairro": "Capit\u00e3o Eduardo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Capitao Eduardo"
         }, 
         {
             "renda": 0.05682150424636861, 
@@ -4379,9 +4777,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Paulo VI", 
+            "bairro": "Conjunto Paulo VI ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Paulo VI"
         }, 
         {
             "renda": 0.055509761157114014, 
@@ -4390,9 +4789,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Capitao Eduardo", 
+            "bairro": "Conjunto Capit\u00e3o Eduardo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Capitao Eduardo"
         }, 
         {
             "renda": 0.06160049337479387, 
@@ -4401,9 +4801,10 @@
     ], 
     [
         {
-            "bairro": "Beija Flor", 
+            "bairro": "Beija Flor ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Beija Flor"
         }, 
         {
             "renda": 0.08077158850651724, 
@@ -4412,9 +4813,10 @@
     ], 
     [
         {
-            "bairro": "Itapoa", 
+            "bairro": "Itapoa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Itapoa"
         }, 
         {
             "renda": 0.2333406079241144, 
@@ -4423,9 +4825,10 @@
     ], 
     [
         {
-            "bairro": "Santa Amelia", 
+            "bairro": "Santa Amelia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Amelia"
         }, 
         {
             "renda": 0.22788281143936348, 
@@ -4434,9 +4837,10 @@
     ], 
     [
         {
-            "bairro": "Santa Branca", 
+            "bairro": "Santa Branca ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Branca"
         }, 
         {
             "renda": 0.1903959647798602, 
@@ -4445,9 +4849,10 @@
     ], 
     [
         {
-            "bairro": "Santa Monica", 
+            "bairro": "Santa Monica ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Santa Monica"
         }, 
         {
             "renda": 0.13071003249471666, 
@@ -4456,9 +4861,10 @@
     ], 
     [
         {
-            "bairro": "Sao Tomaz", 
+            "bairro": "S\u00e3o Tomaz ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Tomaz"
         }, 
         {
             "renda": 0.06558391101461081, 
@@ -4467,9 +4873,10 @@
     ], 
     [
         {
-            "bairro": "Unidas", 
+            "bairro": "Unidas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Unidas"
         }, 
         {
             "renda": 0.0627018756860472, 
@@ -4478,9 +4885,10 @@
     ], 
     [
         {
-            "bairro": "Universo", 
+            "bairro": "Universo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Universo"
         }, 
         {
             "renda": 0.048549321493821, 
@@ -4489,9 +4897,10 @@
     ], 
     [
         {
-            "bairro": "Aarao Reis", 
+            "bairro": "Aar\u00e3o Reis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Aarao Reis"
         }, 
         {
             "renda": 0.10041113021656503, 
@@ -4500,9 +4909,10 @@
     ], 
     [
         {
-            "bairro": "Bacurau", 
+            "bairro": "Bacurau ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Bacurau"
         }, 
         {
             "renda": 0.07858735787326179, 
@@ -4511,9 +4921,10 @@
     ], 
     [
         {
-            "bairro": "Biquinhas", 
+            "bairro": "Biquinhas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Biquinhas"
         }, 
         {
             "renda": 0.055618648343964884, 
@@ -4522,9 +4933,10 @@
     ], 
     [
         {
-            "bairro": "Boa Uniao 1a Secao", 
+            "bairro": "Boa Uni\u00e3o 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Boa Uniao 1a Secao"
         }, 
         {
             "renda": 0.05548057012404336, 
@@ -4533,9 +4945,10 @@
     ], 
     [
         {
-            "bairro": "Boa Uniao 2a secao", 
+            "bairro": "Boa Uni\u00e3o 2\u00aa se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Boa Uniao 2a secao"
         }, 
         {
             "renda": 0.038543747396553696, 
@@ -4544,9 +4957,10 @@
     ], 
     [
         {
-            "bairro": "Campo Alegre", 
+            "bairro": "Campo Alegre ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Campo Alegre"
         }, 
         {
             "renda": 0.11371297430216055, 
@@ -4555,9 +4969,10 @@
     ], 
     [
         {
-            "bairro": "Canaa", 
+            "bairro": "Canaa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Canaa"
         }, 
         {
             "renda": 0.11091804872307763, 
@@ -4566,9 +4981,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Floramar", 
+            "bairro": "Conjunto Floramar ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Floramar"
         }, 
         {
             "renda": 0.06407061079224927, 
@@ -4577,9 +4993,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Providencia", 
+            "bairro": "Conjunto Providencia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Providencia"
         }, 
         {
             "renda": 0.0640604170981611, 
@@ -4588,9 +5005,10 @@
     ], 
     [
         {
-            "bairro": "Etelvina Carneiro", 
+            "bairro": "Etelvina Carneiro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Etelvina Carneiro"
         }, 
         {
             "renda": 0.11508031935916878, 
@@ -4599,9 +5017,10 @@
     ], 
     [
         {
-            "bairro": "Floramar", 
+            "bairro": "Floramar ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Floramar"
         }, 
         {
             "renda": 0.1098263967561812, 
@@ -4610,9 +5029,10 @@
     ], 
     [
         {
-            "bairro": "Frei Leopoldo", 
+            "bairro": "Frei Leopoldo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Frei Leopoldo"
         }, 
         {
             "renda": 0.08076185816216036, 
@@ -4621,9 +5041,10 @@
     ], 
     [
         {
-            "bairro": "Granja Werneck", 
+            "bairro": "Granja Werneck ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Granja Werneck"
         }, 
         {
             "renda": 0.05456313765610831, 
@@ -4632,9 +5053,10 @@
     ], 
     [
         {
-            "bairro": "Guarani", 
+            "bairro": "Guarani ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Guarani"
         }, 
         {
             "renda": 0.11791787311352948, 
@@ -4643,9 +5065,10 @@
     ], 
     [
         {
-            "bairro": "Heliopolis", 
+            "bairro": "Heliopolis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Heliopolis"
         }, 
         {
             "renda": 0.1537477811339743, 
@@ -4654,9 +5077,10 @@
     ], 
     [
         {
-            "bairro": "Jaqueline", 
+            "bairro": "Jaqueline ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jaqueline"
         }, 
         {
             "renda": 0.08407249199215827, 
@@ -4665,9 +5089,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Felicidade", 
+            "bairro": "Jardim Felicidade ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Felicidade"
         }, 
         {
             "renda": 0.06368742056448044, 
@@ -4676,9 +5101,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Guanabara", 
+            "bairro": "Jardim Guanabara ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Guanabara"
         }, 
         {
             "renda": 0.10230391386884514, 
@@ -4687,9 +5113,10 @@
     ], 
     [
         {
-            "bairro": "Juliana", 
+            "bairro": "Juliana ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Juliana"
         }, 
         {
             "renda": 0.0732134276898726, 
@@ -4698,9 +5125,10 @@
     ], 
     [
         {
-            "bairro": "Lajedo", 
+            "bairro": "Lajedo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lajedo"
         }, 
         {
             "renda": 0.083579487878076, 
@@ -4709,9 +5137,10 @@
     ], 
     [
         {
-            "bairro": "Madri", 
+            "bairro": "Madri ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Madri"
         }, 
         {
             "renda": 0.07953212797534238, 
@@ -4720,9 +5149,10 @@
     ], 
     [
         {
-            "bairro": "Maria Tereza", 
+            "bairro": "Maria Tereza ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Maria Tereza"
         }, 
         {
             "renda": 0.06564646322833365, 
@@ -4731,9 +5161,10 @@
     ], 
     [
         {
-            "bairro": "Mariquinhas", 
+            "bairro": "Mariquinhas ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mariquinhas"
         }, 
         {
             "renda": 0.053630414647041026, 
@@ -4742,9 +5173,10 @@
     ], 
     [
         {
-            "bairro": "Minaslandia", 
+            "bairro": "Minaslandia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Minaslandia"
         }, 
         {
             "renda": 0.09785621979828532, 
@@ -4753,9 +5185,10 @@
     ], 
     [
         {
-            "bairro": "Mirante", 
+            "bairro": "Mirante ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mirante"
         }, 
         {
             "renda": 0.043306519284384136, 
@@ -4764,9 +5197,10 @@
     ], 
     [
         {
-            "bairro": "Monte Azul", 
+            "bairro": "Monte Azul ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Monte Azul"
         }, 
         {
             "renda": 0.06282744346322416, 
@@ -4775,9 +5209,10 @@
     ], 
     [
         {
-            "bairro": "Novo Aarao Reis", 
+            "bairro": "Novo Aar\u00e3o Reis ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo Aarao Reis"
         }, 
         {
             "renda": 0.05360771051020829, 
@@ -4786,9 +5221,10 @@
     ], 
     [
         {
-            "bairro": "Novo Tupi", 
+            "bairro": "Novo Tupi ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Novo Tupi"
         }, 
         {
             "renda": 0.06008997325082001, 
@@ -4797,9 +5233,10 @@
     ], 
     [
         {
-            "bairro": "Planalto", 
+            "bairro": "Planalto ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Planalto"
         }, 
         {
             "renda": 0.16690598680287294, 
@@ -4808,9 +5245,10 @@
     ], 
     [
         {
-            "bairro": "Primeiro de Maio", 
+            "bairro": "Primeiro de Maio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Primeiro de Maio"
         }, 
         {
             "renda": 0.07190214795034928, 
@@ -4819,9 +5257,10 @@
     ], 
     [
         {
-            "bairro": "Providencia", 
+            "bairro": "Providencia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Providencia"
         }, 
         {
             "renda": 0.08026190380210889, 
@@ -4830,9 +5269,10 @@
     ], 
     [
         {
-            "bairro": "Vila SESC", 
+            "bairro": "Vila SESC ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila SESC"
         }, 
         {
             "renda": 0.06069047450255931, 
@@ -4841,9 +5281,10 @@
     ], 
     [
         {
-            "bairro": "Sao Bernardo", 
+            "bairro": "S\u00e3o Bernardo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Bernardo"
         }, 
         {
             "renda": 0.08803598559353015, 
@@ -4852,9 +5293,10 @@
     ], 
     [
         {
-            "bairro": "Sao Damiao", 
+            "bairro": "S\u00e3o Dami\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Damiao"
         }, 
         {
             "renda": 0.06277925509117101, 
@@ -4863,9 +5305,10 @@
     ], 
     [
         {
-            "bairro": "Sao Goncalo", 
+            "bairro": "S\u00e3o Gon\u00e7alo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Goncalo"
         }, 
         {
             "renda": 0.08566826846668771, 
@@ -4874,9 +5317,10 @@
     ], 
     [
         {
-            "bairro": "Vila Jardim Leblon", 
+            "bairro": "Vila Jardim Leblon ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Jardim Leblon"
         }, 
         {
             "renda": 0.05582205887599695, 
@@ -4885,9 +5329,10 @@
     ], 
     [
         {
-            "bairro": "Satelite", 
+            "bairro": "Satelite ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Satelite"
         }, 
         {
             "renda": 0.0944848871534897, 
@@ -4896,9 +5341,10 @@
     ], 
     [
         {
-            "bairro": "Solimoes", 
+            "bairro": "Solimoes ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Solimoes"
         }, 
         {
             "renda": 0.07519054099324575, 
@@ -4907,9 +5353,10 @@
     ], 
     [
         {
-            "bairro": "Tupi A", 
+            "bairro": "Tupi A ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Tupi A"
         }, 
         {
             "renda": 0.0833204753782903, 
@@ -4918,9 +5365,10 @@
     ], 
     [
         {
-            "bairro": "Tupi B", 
+            "bairro": "Tupi B ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Tupi B"
         }, 
         {
             "renda": 0.084943126137234, 
@@ -4929,9 +5377,10 @@
     ], 
     [
         {
-            "bairro": "Vila Cloris", 
+            "bairro": "Vila Cloris ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Cloris"
         }, 
         {
             "renda": 0.14376305777461465, 
@@ -4940,9 +5389,10 @@
     ], 
     [
         {
-            "bairro": "Vila Minaslandia", 
+            "bairro": "Vila Minaslandia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Minaslandia"
         }, 
         {
             "renda": 0.05703510847248884, 
@@ -4951,9 +5401,10 @@
     ], 
     [
         {
-            "bairro": "Vila Nova", 
+            "bairro": "Vila Nova ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Nova"
         }, 
         {
             "renda": 0.054153999843387784, 
@@ -4962,9 +5413,10 @@
     ], 
     [
         {
-            "bairro": "Vila Primeiro de Maio", 
+            "bairro": "Vila Primeiro de Maio ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Primeiro de Maio"
         }, 
         {
             "renda": 0.057907132666758405, 
@@ -4975,7 +5427,8 @@
         {
             "bairro": "Xodo", 
             "cidade": "Marize", 
-            "estado": "Belo Horizonte"
+            "estado": "Belo Horizonte", 
+            "bairro_sem_acento": "Xodo"
         }, 
         {
             "renda": 0.07309156671054588, 
@@ -4984,9 +5437,10 @@
     ], 
     [
         {
-            "bairro": "Zilah Sposito", 
+            "bairro": "Zilah Sposito ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Zilah Sposito"
         }, 
         {
             "renda": 0.05354469494675416, 
@@ -4995,9 +5449,10 @@
     ], 
     [
         {
-            "bairro": "Apolonia", 
+            "bairro": "Apolonia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Apolonia"
         }, 
         {
             "renda": 0.05010385984226648, 
@@ -5006,9 +5461,10 @@
     ], 
     [
         {
-            "bairro": "Candelaria", 
+            "bairro": "Candelaria ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Candelaria"
         }, 
         {
             "renda": 0.11690082045336916, 
@@ -5017,9 +5473,10 @@
     ], 
     [
         {
-            "bairro": "Cenaculo", 
+            "bairro": "Cenaculo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Cenaculo"
         }, 
         {
             "renda": 0.09305776998114629, 
@@ -5028,9 +5485,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Minas Caixa", 
+            "bairro": "Conjunto Minas Caixa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Minas Caixa"
         }, 
         {
             "renda": 0.05561308814718953, 
@@ -5039,9 +5497,10 @@
     ], 
     [
         {
-            "bairro": "Conjunto Serra Verde", 
+            "bairro": "Conjunto Serra Verde ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Conjunto Serra Verde"
         }, 
         {
             "renda": 0.06155693850005351, 
@@ -5050,9 +5509,10 @@
     ], 
     [
         {
-            "bairro": "Vila Mantiqueira", 
+            "bairro": "Vila Mantiqueira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Mantiqueira"
         }, 
         {
             "renda": 0.06760550589218685, 
@@ -5061,9 +5521,10 @@
     ], 
     [
         {
-            "bairro": "Europa", 
+            "bairro": "Europa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Europa"
         }, 
         {
             "renda": 0.08665844684243375, 
@@ -5072,9 +5533,10 @@
     ], 
     [
         {
-            "bairro": "Flamengo", 
+            "bairro": "Flamengo ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Flamengo"
         }, 
         {
             "renda": 0.05586978389831882, 
@@ -5083,9 +5545,10 @@
     ], 
     [
         {
-            "bairro": "Jardim dos Comerciarios", 
+            "bairro": "Jardim dos Comerciarios ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim dos Comerciarios"
         }, 
         {
             "renda": 0.07510111449510865, 
@@ -5094,9 +5557,10 @@
     ], 
     [
         {
-            "bairro": "Jardim Leblon", 
+            "bairro": "Jardim Leblon ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Jardim Leblon"
         }, 
         {
             "renda": 0.089534921974222, 
@@ -5105,9 +5569,10 @@
     ], 
     [
         {
-            "bairro": "Lagoa", 
+            "bairro": "Lagoa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lagoa"
         }, 
         {
             "renda": 0.06708516414395904, 
@@ -5116,9 +5581,10 @@
     ], 
     [
         {
-            "bairro": "Lagoinha Leblon", 
+            "bairro": "Lagoinha Leblon ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Lagoinha Leblon"
         }, 
         {
             "renda": 0.07940470679924029, 
@@ -5127,9 +5593,10 @@
     ], 
     [
         {
-            "bairro": "Laranjeiras", 
+            "bairro": "Laranjeiras ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Laranjeiras"
         }, 
         {
             "renda": 0.07219081483293693, 
@@ -5138,9 +5605,10 @@
     ], 
     [
         {
-            "bairro": "Leticia", 
+            "bairro": "Leticia ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Leticia"
         }, 
         {
             "renda": 0.09188873860912604, 
@@ -5149,9 +5617,10 @@
     ], 
     [
         {
-            "bairro": "Mantiqueira", 
+            "bairro": "Mantiqueira ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Mantiqueira"
         }, 
         {
             "renda": 0.07376898401767772, 
@@ -5160,9 +5629,10 @@
     ], 
     [
         {
-            "bairro": "Maria Helena", 
+            "bairro": "Maria Helena ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Maria Helena"
         }, 
         {
             "renda": 0.08858922517267886, 
@@ -5171,9 +5641,10 @@
     ], 
     [
         {
-            "bairro": "Minas Caixa", 
+            "bairro": "Minas Caixa ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Minas Caixa"
         }, 
         {
             "renda": 0.09376762176946775, 
@@ -5182,9 +5653,10 @@
     ], 
     [
         {
-            "bairro": "Sao Joao Batista", 
+            "bairro": "S\u00e3o Jo\u00e3o Batista ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Sao Joao Batista"
         }, 
         {
             "renda": 0.14017024395826702, 
@@ -5193,9 +5665,10 @@
     ], 
     [
         {
-            "bairro": "Nova America", 
+            "bairro": "Nova America ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nova America"
         }, 
         {
             "renda": 0.04233348484869546, 
@@ -5204,9 +5677,10 @@
     ], 
     [
         {
-            "bairro": "Parque Sao Pedro", 
+            "bairro": "Parque S\u00e3o Pedro ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Parque Sao Pedro"
         }, 
         {
             "renda": 0.10390664058934379, 
@@ -5215,9 +5689,10 @@
     ], 
     [
         {
-            "bairro": "Piratininga", 
+            "bairro": "Piratininga ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Piratininga"
         }, 
         {
             "renda": 0.08013216587735039, 
@@ -5226,9 +5701,10 @@
     ], 
     [
         {
-            "bairro": "Rio Branco", 
+            "bairro": "Rio Branco ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Rio Branco"
         }, 
         {
             "renda": 0.11212090462548135, 
@@ -5237,9 +5713,10 @@
     ], 
     [
         {
-            "bairro": "Vila Santa Monica 1a Secao", 
+            "bairro": "Vila Santa Monica 1\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Santa Monica 1a Secao"
         }, 
         {
             "renda": 0.053877380053813435, 
@@ -5248,9 +5725,10 @@
     ], 
     [
         {
-            "bairro": "Vila Santa Monica 2a Secao", 
+            "bairro": "Vila Santa Monica 2\u00aa Se\u00e7\u00e3o ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Vila Santa Monica 2a Secao"
         }, 
         {
             "renda": 0.055007953398137424, 
@@ -5259,9 +5737,10 @@
     ], 
     [
         {
-            "bairro": "Itaipu", 
+            "bairro": "Itaipu ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Itaipu"
         }, 
         {
             "renda": 0.07741183960500361, 
@@ -5270,9 +5749,10 @@
     ], 
     [
         {
-            "bairro": "Nossa Senhora Aparecida", 
+            "bairro": "Nossa Senhora Aparecida ", 
             "cidade": "Belo Horizonte", 
-            "estado": "MG"
+            "estado": "MG", 
+            "bairro_sem_acento": "Nossa Senhora Aparecida"
         }, 
         {
             "renda": 0.051278451411062104, 

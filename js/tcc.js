@@ -145,13 +145,11 @@ $(function(){
 
 					bairros[nome_bairro_slug] = new Bairro(nome_bairro);
 					bairros[nome_bairro_slug].nome_reduzido = nome_bairro_slug;
-
-
+				
 					var coordenadas = $(this).find('LinearRing').find('coordinates');
 					coordenadas = $(coordenadas).text().split(" ");
 					var tamanho = coordenadas.length;
-					
-
+				
 					var poligono = [];
 					for (i=0;i<=tamanho;i++) {
 						if($.trim(coordenadas[i]).replace(/\s/g,"") != "") {
@@ -191,10 +189,11 @@ $(function(){
 			success: function(json) {
 				tamanho = json.length;
 				for(var i=0;i<tamanho;++i){
-						nome_bairro = json[i][0].bairro.replace(/\s/g,'_').toLowerCase();
+						nome_bairro = json[i][0].bairro_sem_acento.replace(/\s/g,'_').toLowerCase();
 						if(bairros[nome_bairro]) {
 							bairros[nome_bairro].renda = json[i][1]['renda'];
 							bairros[nome_bairro].populacao = json[i][1]['populacao'];
+							bairros[nome_bairro].nome = json[i][0].bairro;
 						}
 
 				}
