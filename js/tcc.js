@@ -43,7 +43,7 @@ $(function(){
 		this.renda = 0; //Float
 		this.populacao = 0; //Float
 	}
-
+	//Atualizar Cor do Bairro
 	Bairro.prototype.atualizaCor = function(media) {
 			var cores = getHeatMapColor(media);
 			this.poligono.fillColor = cores;
@@ -137,25 +137,22 @@ $(function(){
 			dataType: "xml",
 			success: function(xml) {
 				$(xml).find('Placemark').each(function(){
-					nome = $(this).find('description').text()
-					li = $(nome).find('li')[0]
+					var nome = $(this).find('description').text()
+					var li = $(nome).find('li')[0]
 					//pega o nome do bairro
-					nome_bairro = $(li).find('span').eq(1).text();
-					nome_bairro_slug = nome_bairro.replace(/\s/g,'_').toLowerCase();
+					var nome_bairro = $(li).find('span').eq(1).text();
+					var nome_bairro_slug = nome_bairro.replace(/\s/g,'_').toLowerCase();
 
 					bairros[nome_bairro_slug] = new Bairro(nome_bairro);
 					bairros[nome_bairro_slug].nome_reduzido = nome_bairro_slug;
 
 
-					coordenadas = $(this).find('LinearRing').find('coordinates');
+					var coordenadas = $(this).find('LinearRing').find('coordinates');
 					coordenadas = $(coordenadas).text().split(" ");
-					tamanho = coordenadas.length;
+					var tamanho = coordenadas.length;
 					
-					//bairros[nome_bairro] = Array(nome_bairro);
-					cores = getHeatMapColor(0,1);
 
-
-					poligono = [];
+					var poligono = [];
 					for (i=0;i<=tamanho;i++) {
 						if($.trim(coordenadas[i]).replace(/\s/g,"") != "") {
 							coord = $.trim(coordenadas[i]).split(',');	
@@ -170,6 +167,13 @@ $(function(){
 							strokeWeight: 2,
 							fillColor: '#ffffff',
 							fillOpacity: 0.7,
+					});
+
+					google.maps.event.addListener(bairros[nome_bairro_slug].poligono, 'click', function() {
+					    var infoWindow = new google.maps.InfoWindow();
+					    infoWindow.setContent("Bairro: " + bairros[nome_bairro_slug].nome);
+					    infoWindow.setPosition(poligono[0]);     
+					    infoWindow.open(map);
 					});
 
 					bairros[nome_bairro_slug].poligono.setMap(map);
