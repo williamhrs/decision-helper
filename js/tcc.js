@@ -44,7 +44,7 @@ $(function(){
 		this.populacao = 0; //Float
 	}
 	//Atualizar Cor do Bairro
-	Bairro.prototype.atualizaCor = function(media) {
+	Bairro.prototype.updateColor = function(media) {
 			var cores = getHeatMapColor(media);
 			this.poligono.fillColor = cores;
 			this.poligono.setMap(map);
@@ -63,7 +63,7 @@ $(function(){
 				for(var i=0;i<tamanho;++i){
 					media = (bairros[nomes_bairros[i]].renda * peso_renda + bairros[nomes_bairros[i]].populacao * peso_populacao) / (peso_populacao + peso_renda);
 					if(media){
-						bairros[nomes_bairros[i]].atualizaCor(media);
+						bairros[nomes_bairros[i]].updateColor(media);
 					}
 				}
 			}
@@ -82,7 +82,7 @@ $(function(){
 				for(var i=0;i<tamanho;++i){
 					media = (bairros[nomes_bairros[i]].renda * peso_renda + bairros[nomes_bairros[i]].populacao * peso_populacao) / (peso_populacao + peso_renda);
 					if(media){
-						bairros[nomes_bairros[i]].atualizaCor(media);
+						bairros[nomes_bairros[i]].updateColor(media);
 					}
 				}
 			}
