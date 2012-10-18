@@ -55,39 +55,33 @@ $(function(){
 		min:1,
 		max:10,
 		step:0.5,
-		change: function(event,ui){
-			var peso_renda = $('#slider-renda').slider('value')
-			var peso_populacao = $('#slider-populacao').slider('value');
-			if(bairros) {
-				tamanho = nomes_bairros.length;
-				for(var i=0;i<tamanho;++i){
-					media = (bairros[nomes_bairros[i]].renda * peso_renda + bairros[nomes_bairros[i]].populacao * peso_populacao) / (peso_populacao + peso_renda);
-					if(media){
-						bairros[nomes_bairros[i]].updateColor(media);
-					}
-				}
-			}
-		}
+		change: slide,
+		stop: slide,
+		slide: slide
 	});
 
 	$('#slider-populacao').slider({
 		min:0.5,
 		max:10,
 		step:0.5,
-		change: function(event,ui){
-			var peso_renda = $('#slider-renda').slider('value')
-			var peso_populacao = $('#slider-populacao').slider('value');
-			if(bairros) {
-				tamanho = nomes_bairros.length;
-				for(var i=0;i<tamanho;++i){
-					media = (bairros[nomes_bairros[i]].renda * peso_renda + bairros[nomes_bairros[i]].populacao * peso_populacao) / (peso_populacao + peso_renda);
-					if(media){
-						bairros[nomes_bairros[i]].updateColor(media);
-					}
+		change: slide,
+		stop: slide,
+		slide: slide
+	});
+
+	function slide(event,ui){
+		var peso_renda = $('#slider-renda').slider('value')
+		var peso_populacao = $('#slider-populacao').slider('value');
+		if(bairros) {
+			tamanho = nomes_bairros.length;
+			for(var i=0;i<tamanho;++i){
+				media = (bairros[nomes_bairros[i]].renda * peso_renda + bairros[nomes_bairros[i]].populacao * peso_populacao) / (peso_populacao + peso_renda);
+				if(media){
+					bairros[nomes_bairros[i]].updateColor(media);
 				}
 			}
 		}
-	});
+	}
 
 	$('#slider-empresasti').slider({
 		min:0,
