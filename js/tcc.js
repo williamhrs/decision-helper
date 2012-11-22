@@ -61,7 +61,7 @@ $(function(){
 	});
 
 	$('#slider-populacao').slider({
-		min:0.5,
+		min:1,
 		max:10,
 		step:0.5,
 		change: slide,
@@ -70,7 +70,7 @@ $(function(){
 	});
 
 	function slide(event,ui){
-		var peso_renda = $('#slider-renda').slider('value')
+		var peso_renda = $('#slider-renda').slider('value');
 		var peso_populacao = $('#slider-populacao').slider('value');
 		if(bairros) {
 			tamanho = nomes_bairros.length;
